@@ -1,0 +1,176 @@
+[
+	[
+		{
+			"_message": 1
+		}
+	],
+	[
+		{
+			"porcentaje": 20
+		}
+	],
+	[
+		{
+			"porcentaje": 20
+		}
+	],
+	[],
+	[
+		{
+			"np_idSubCategoria": 1,
+			"np_Nombre": "Capacidad de Análisis",
+			"np_descripcion": "Análisis de datos, compresión de las causas subyacentes e identificación de las partes un problema, ordenándolas sistemáticamente.",
+			"np_decatipo": 20.0000
+		},
+		{
+			"np_idSubCategoria": 5,
+			"np_Nombre": "Administrando el propio Desempeño",
+			"np_descripcion": "Tomar responsabilidad de su propia labor y ser consciente de su propia labor.",
+			"np_decatipo": 20.0000
+		},
+		{
+			"np_idSubCategoria": 16,
+			"np_Nombre": "Resiliencia",
+			"np_descripcion": "Presenta una actitud y disposición marcadamente positiva, incluye la habilidad para enfrentar los errores aprendiendo de ellos.",
+			"np_decatipo": 20.0000
+		},
+		{
+			"np_idSubCategoria": 22,
+			"np_Nombre": "Conformidad",
+			"np_descripcion": "Es la competencia que despliegan la personas que demuestran una alta habilidad y motivación para seguir normas escritas y no escritas dentro de las organizaciones.",
+			"np_decatipo": 20.0000
+		}
+	],
+	[],
+	[],
+	[
+		{
+			"np_idSubCategoria": 1,
+			"np_Nombre": "Capacidad de Análisis",
+			"np_descripcion": "Análisis de datos, compresión de las causas subyacentes e identificación de las partes un problema, ordenándolas sistemáticamente.",
+			"np_decatipo": 20.0000
+		},
+		{
+			"np_idSubCategoria": 5,
+			"np_Nombre": "Administrando el propio Desempeño",
+			"np_descripcion": "Tomar responsabilidad de su propia labor y ser consciente de su propia labor.",
+			"np_decatipo": 20.0000
+		},
+		{
+			"np_idSubCategoria": 16,
+			"np_Nombre": "Resiliencia",
+			"np_descripcion": "Presenta una actitud y disposición marcadamente positiva, incluye la habilidad para enfrentar los errores aprendiendo de ellos.",
+			"np_decatipo": 20.0000
+		},
+		{
+			"np_idSubCategoria": 22,
+			"np_Nombre": "Conformidad",
+			"np_descripcion": "Es la competencia que despliegan la personas que demuestran una alta habilidad y motivación para seguir normas escritas y no escritas dentro de las organizaciones.",
+			"np_decatipo": 20.0000
+		}
+	],
+	[
+		{
+			"_logo": null,
+			"_foto": "https://images.vexels.com/media/users/3/135118/isolated/preview/676bf0e9f3c16649cd7f426c6dcd755a-signo-de-usuario-plana-con-fondo-redondo-by-vexels.png",
+			"_NombreCandidato": "Juan Cambino",
+			"_NombreGestor": "Luis Man",
+			"_NombreProyecto": "EVDESEM",
+			"_Descripcion": null,
+			"_Fecha": "30-05-2023",
+			"_Comentario": ""
+		}
+	],
+	[],
+	[],
+	[
+		{
+			"np_Nombre": "Capacidad de Análisis",
+			"np_idSubCategoria": 1,
+			"np_idCategoria": 1,
+			"PuntajeSubCategoria": 1.0
+		},
+		{
+			"np_Nombre": "Conformidad",
+			"np_idSubCategoria": 22,
+			"np_idCategoria": 1,
+			"PuntajeSubCategoria": 1.0
+		},
+		{
+			"np_Nombre": "Administrando el propio Desempeño",
+			"np_idSubCategoria": 5,
+			"np_idCategoria": 1,
+			"PuntajeSubCategoria": 1.0
+		},
+		{
+			"np_Nombre": "Resiliencia",
+			"np_idSubCategoria": 16,
+			"np_idCategoria": 3,
+			"PuntajeSubCategoria": 1.0
+		}
+	],
+	[
+		{
+			"er_idPregunta": 2303,
+			"ep_pregunta": "Evalúa sistemáticamente las posibles acciones y las consecuencias potenciales",
+			"ep_idCompetencia": 1,
+			"ep_idCategoria": 1,
+			"PuntajePregunta": 1.0
+		},
+		{
+			"er_idPregunta": 2304,
+			"ep_pregunta": "Delibera cuidadosamente sobre los asuntos y situaciones de trabajo con su equipo.",
+			"ep_idCompetencia": 1,
+			"ep_idCategoria": 1,
+			"PuntajePregunta": 1.0
+		},
+		{
+			"er_idPregunta": 2305,
+			"ep_pregunta": "Es la competencia que despliegan la personas que demuestran una alta habilidad y motivación para seguir normas escritas y no escritas dentro de las organizaciones.",
+			"ep_idCompetencia": 22,
+			"ep_idCategoria": 1,
+			"PuntajePregunta": 1.0
+		},
+		{
+			"er_idPregunta": 2306,
+			"ep_pregunta": "Tomar responsabilidad de su propia labor y ser consciente de su propia labor.",
+			"ep_idCompetencia": 5,
+			"ep_idCategoria": 1,
+			"PuntajePregunta": 1.0
+		},
+		{
+			"er_idPregunta": 2307,
+			"ep_pregunta": "Presenta una actitud y disposición marcadamente positiva, incluye la habilidad para enfrentar los errores aprendiendo de ellos.",
+			"ep_idCompetencia": 16,
+			"ep_idCategoria": 3,
+			"PuntajePregunta": 1.0
+		}
+	],
+	[],
+	[],
+	[],
+	[],
+	[],
+	[
+		{
+			"ee_nombre": "No Cumple con las expectativas",
+			"ee_ranking": 1
+		},
+		{
+			"ee_nombre": "Pocas veces cumple las expectativas  ",
+			"ee_ranking": 2
+		},
+		{
+			"ee_nombre": "Algunas veces cumple con las expectativas",
+			"ee_ranking": 3
+		},
+		{
+			"ee_nombre": "Cumple las expectativas",
+			"ee_ranking": 4
+		},
+		{
+			"ee_nombre": "Supera las expectativas",
+			"ee_ranking": 5
+		}
+	]
+]

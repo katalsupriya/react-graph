@@ -1,0 +1,47 @@
+[
+	{
+		"pr_TipoPrueba" : 7,
+		"pr_idCandidato" : 17333,
+		"pr_status" : 1,
+		"pr_id" : 28090,
+		"pr_ClasePrueba" : 1,
+		"pr_estructura" : 7,
+		"pr_nombre" : "RAZI General",
+		"pr_descripcion" : "No hay Descripcion",
+		"logo" : "encuesta.png",
+		"pr_idEvaluado" : 17333,
+		"pr_idEvaluado2" : null,
+		"pr_idProjecto" : null,
+		"pr_Expiracion" : "27-06-2023"
+	},
+	{
+		"pr_TipoPrueba" : 1,
+		"pr_idCandidato" : 17333,
+		"pr_status" : 1,
+		"pr_id" : 28084,
+		"pr_ClasePrueba" : 1,
+		"pr_estructura" : 1,
+		"pr_nombre" : "APL 144",
+		"pr_descripcion" : "El Análisis del Perfil Laboral (APL) es conjunto de competencias que apoyado en la personalidad influyen significativamente en el alto desempeño en el trabajo.",
+		"logo" : "apl.png",
+		"pr_idEvaluado" : 17333,
+		"pr_idEvaluado2" : null,
+		"pr_idProjecto" : null,
+		"pr_Expiracion" : "27-06-2023"
+	},
+	{
+		"pr_TipoPrueba" : 232,
+		"pr_idCandidato" : 17333,
+		"pr_status" : 1,
+		"pr_id" : 28100,
+		"pr_ClasePrueba" : 0,
+		"pr_estructura" : 2,
+		"pr_nombre" : "EV EXAMPLE",
+		"pr_descripcion" : "",
+		"logo" : "encuesta.png",
+		"pr_idEvaluado" : 17329,
+		"pr_idEvaluado2" : 17333,
+		"pr_idProjecto" : 648,
+		"pr_Expiracion" : "27-06-2023"
+	}
+]

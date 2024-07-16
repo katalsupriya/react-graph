@@ -1,0 +1,52 @@
+[
+	[
+	{
+		"_message" : 1
+	}
+],
+[
+	{
+		"_idCategoria" : 1,
+		"_decatipo" : 6,
+		"_mensaje" : "Usted tiene una moderada Aptitud Verbal",
+		"_porTiempo" : 84,
+		"_porPregunta" : 59
+	},
+	{
+		"_idCategoria" : 2,
+		"_decatipo" : 6,
+		"_mensaje" : "Usted tiene una moderada Aptitud Numérica",
+		"_porTiempo" : 91,
+		"_porPregunta" : 64
+	},
+	{
+		"_idCategoria" : 3,
+		"_decatipo" : 8,
+		"_mensaje" : "Usted tiene una buena Aptitud Abstracta",
+		"_porTiempo" : 49,
+		"_porPregunta" : 69
+	}
+],
+[
+	{
+		"nombre" : "Juan Cambino",
+		"_logo" : null,
+		"_nomNorma" : "Norma Estandar"
+	}
+],
+[
+	{
+		"_decatipo" : 5,
+		"_porTiempo" : 75,
+		"_porPregunta" : 64,
+		"_resultadofinal" : 50,
+		"_idCandidato" : 17330,
+		"_idPrueba" : 28095,
+		"_mensaje" : null
+	}
+]
+
+
+
+]
+

@@ -1,0 +1,1475 @@
+[
+	[
+		{
+			"sb_id": 1,
+			"sb_nombre": "Capacidad de Análisis",
+			"sb_resumen": "Inclinación hacia el análisis de datos y la comprensión de hechos.",
+			"cp_NivelCritico": 1,
+			"sb_idCategoria": 1,
+			"nr_decatipo2": 5,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 22,
+			"sb_nombre": "Conformidad",
+			"sb_resumen": "Preferencia por las reglas y los procedimientos establecidos.",
+			"cp_NivelCritico": 3,
+			"sb_idCategoria": 1,
+			"nr_decatipo2": 7,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 3,
+			"sb_nombre": "Foco en el resultado",
+			"sb_resumen": "Enfoque, claridad y seguimiento a las tareas del trabajo.",
+			"cp_NivelCritico": 1,
+			"sb_idCategoria": 1,
+			"nr_decatipo2": 7,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 2,
+			"sb_nombre": "Proactividad",
+			"sb_resumen": "Acción rápida. Mejorar el trabajo. Solucionar problemas",
+			"cp_NivelCritico": 2,
+			"sb_idCategoria": 1,
+			"nr_decatipo2": 5,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 10,
+			"sb_nombre": "Innovación",
+			"sb_resumen": "Generar ideas y soluciones creativas.",
+			"cp_NivelCritico": 3,
+			"sb_idCategoria": 2,
+			"nr_decatipo2": 2,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 8,
+			"sb_nombre": "Planificación y Organización",
+			"sb_resumen": "Planear el trabajo. Mantenerse organizado.",
+			"cp_NivelCritico": 2,
+			"sb_idCategoria": 2,
+			"nr_decatipo2": 8,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 7,
+			"sb_nombre": "Toma de Decisiones ",
+			"sb_resumen": "Facilidad y confianza para tomar decisiones.",
+			"cp_NivelCritico": 1,
+			"sb_idCategoria": 2,
+			"nr_decatipo2": 5,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 9,
+			"sb_nombre": "Visión Estratégica",
+			"sb_resumen": "Comprender el entorno. Anticipar escenarios y posibilidades.",
+			"cp_NivelCritico": 1,
+			"sb_idCategoria": 2,
+			"nr_decatipo2": 4,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 14,
+			"sb_nombre": "Autocontrol",
+			"sb_resumen": "Capacidad para mantener la calma y el dominio emocional.",
+			"cp_NivelCritico": 2,
+			"sb_idCategoria": 3,
+			"nr_decatipo2": 6,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 12,
+			"sb_nombre": "Confianza y Seguridad",
+			"sb_resumen": "Proyectar confianza. Sentir y demostrar seguridad personal.",
+			"cp_NivelCritico": 2,
+			"sb_idCategoria": 3,
+			"nr_decatipo2": 9,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 15,
+			"sb_nombre": "Energía",
+			"sb_resumen": "Efectividad extendida. Persistencia y concentración ante la fatiga.",
+			"cp_NivelCritico": 3,
+			"sb_idCategoria": 3,
+			"nr_decatipo2": 7,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 16,
+			"sb_nombre": "Resiliencia",
+			"sb_resumen": "Actitud positiva. Recuperación rápida frente a la adversidad.",
+			"cp_NivelCritico": 3,
+			"sb_idCategoria": 3,
+			"nr_decatipo2": 7,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 19,
+			"sb_nombre": "Comunicación y Persuasión",
+			"sb_resumen": "Habilidad para la expresión verbal. Capacidad de convencimiento.",
+			"cp_NivelCritico": 2,
+			"sb_idCategoria": 4,
+			"nr_decatipo2": 8,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 21,
+			"sb_nombre": "Potencial para el Liderazgo ",
+			"sb_resumen": "Interés o facilidad para influir en los demás y ejercer el rol de líder.",
+			"cp_NivelCritico": 1,
+			"sb_idCategoria": 4,
+			"nr_decatipo2": 6,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 20,
+			"sb_nombre": "Trabajo en Equipo  ",
+			"sb_resumen": "Habilidad y motivación para fortalecer o formar parte del equipo.",
+			"cp_NivelCritico": 3,
+			"sb_idCategoria": 4,
+			"nr_decatipo2": 3,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		}
+	],
+	[
+		{
+			"sb_id": 5,
+			"sb_nombre": "Administrando el propio Desempeño",
+			"sb_resumen": "Propensión y dedicación a actividades laborales por encima de otras.",
+			"sb_idCategoria": 1,
+			"nr_decatipo2": 5,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 4,
+			"sb_nombre": "Atención a los detalles",
+			"sb_resumen": "Disfrute, interés y habilidad para verificar y revisar.",
+			"sb_idCategoria": 1,
+			"nr_decatipo2": 3,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 1,
+			"sb_nombre": "Capacidad de Análisis",
+			"sb_resumen": "Inclinación hacia el análisis de datos y la comprensión de hechos.",
+			"sb_idCategoria": 1,
+			"nr_decatipo2": 5,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 22,
+			"sb_nombre": "Conformidad",
+			"sb_resumen": "Preferencia por las reglas y los procedimientos establecidos.",
+			"sb_idCategoria": 1,
+			"nr_decatipo2": 7,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 3,
+			"sb_nombre": "Foco en el resultado",
+			"sb_resumen": "Enfoque, claridad y seguimiento a las tareas del trabajo.",
+			"sb_idCategoria": 1,
+			"nr_decatipo2": 7,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 2,
+			"sb_nombre": "Proactividad",
+			"sb_resumen": "Acción rápida. Mejorar el trabajo. Solucionar problemas",
+			"sb_idCategoria": 1,
+			"nr_decatipo2": 5,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 6,
+			"sb_nombre": "Razonamiento Matemático",
+			"sb_resumen": "Interés o habilidad hacia el trabajo con información cuantitativa.",
+			"sb_idCategoria": 1,
+			"nr_decatipo2": 5,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 23,
+			"sb_nombre": "Ambición",
+			"sb_resumen": "Ser competitivo. Alcanzar reconocimiento metas, jerarquía o liderazgo.",
+			"sb_idCategoria": 2,
+			"nr_decatipo2": 10,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 10,
+			"sb_nombre": "Innovación",
+			"sb_resumen": "Generar ideas y soluciones creativas.",
+			"sb_idCategoria": 2,
+			"nr_decatipo2": 2,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 11,
+			"sb_nombre": "Orientación hacia el Cliente",
+			"sb_resumen": "Propensión y compromiso hacia la atención y el servicio al cliente.",
+			"sb_idCategoria": 2,
+			"nr_decatipo2": 8,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 8,
+			"sb_nombre": "Planificación y Organización",
+			"sb_resumen": "Planear el trabajo. Mantenerse organizado.",
+			"sb_idCategoria": 2,
+			"nr_decatipo2": 8,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 7,
+			"sb_nombre": "Toma de Decisiones ",
+			"sb_resumen": "Facilidad y confianza para tomar decisiones.",
+			"sb_idCategoria": 2,
+			"nr_decatipo2": 5,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 9,
+			"sb_nombre": "Visión Estratégica",
+			"sb_resumen": "Comprender el entorno. Anticipar escenarios y posibilidades.",
+			"sb_idCategoria": 2,
+			"nr_decatipo2": 4,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 14,
+			"sb_nombre": "Autocontrol",
+			"sb_resumen": "Capacidad para mantener la calma y el dominio emocional.",
+			"sb_idCategoria": 3,
+			"nr_decatipo2": 6,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 12,
+			"sb_nombre": "Confianza y Seguridad",
+			"sb_resumen": "Proyectar confianza. Sentir y demostrar seguridad personal.",
+			"sb_idCategoria": 3,
+			"nr_decatipo2": 9,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 15,
+			"sb_nombre": "Energía",
+			"sb_resumen": "Efectividad extendida. Persistencia y concentración ante la fatiga.",
+			"sb_idCategoria": 3,
+			"nr_decatipo2": 7,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 24,
+			"sb_nombre": "Mentalidad",
+			"sb_resumen": "Creencia en el potencial de transformación y mejora de las personas.",
+			"sb_idCategoria": 3,
+			"nr_decatipo2": 5,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 16,
+			"sb_nombre": "Resiliencia",
+			"sb_resumen": "Actitud positiva. Recuperación rápida frente a la adversidad.",
+			"sb_idCategoria": 3,
+			"nr_decatipo2": 7,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 13,
+			"sb_nombre": "Superación",
+			"sb_resumen": "Desarrollo del capital de carrera y mejoramiento profesional.",
+			"sb_idCategoria": 3,
+			"nr_decatipo2": 10,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 19,
+			"sb_nombre": "Comunicación y Persuasión",
+			"sb_resumen": "Habilidad para la expresión verbal. Capacidad de convencimiento.",
+			"sb_idCategoria": 4,
+			"nr_decatipo2": 8,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 18,
+			"sb_nombre": "Empatía ",
+			"sb_resumen": "Reconocer y conectar con las emociones de los demás.",
+			"sb_idCategoria": 4,
+			"nr_decatipo2": 6,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 17,
+			"sb_nombre": "Interés Interpersonal",
+			"sb_resumen": "Crear y cultivar relaciones. Disfrutar las interacciones sociales.",
+			"sb_idCategoria": 4,
+			"nr_decatipo2": 10,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 21,
+			"sb_nombre": "Potencial para el Liderazgo ",
+			"sb_resumen": "Interés o facilidad para influir en los demás y ejercer el rol de líder.",
+			"sb_idCategoria": 4,
+			"nr_decatipo2": 6,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		},
+		{
+			"sb_id": 20,
+			"sb_nombre": "Trabajo en Equipo  ",
+			"sb_resumen": "Habilidad y motivación para fortalecer o formar parte del equipo.",
+			"sb_idCategoria": 4,
+			"nr_decatipo2": 3,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 1,
+			"validBajo": 1
+		}
+	],
+	[
+		{
+			"ContadorCritico": 5,
+			"ContadorMuyImportante": 5,
+			"ContadorImportante": 5
+		}
+	],
+	[
+		{
+			"NombreNorma": "PROFESIONAL 2020 NI",
+			"Nombre": "Juan Cambino ",
+			"clie_nombre": "Demo Empresa may",
+			"Logo": "https://alacdn.s3.us-west-2.amazonaws.com/images/APL/pblogo.jpeg",
+			"pl_nombre": "Director General Regional / Corporativo",
+			"pr_FechaFinal": null
+		}
+	],
+	[
+		{ 
+			"rc_NombreRegla": "Regla Proporcional",
+			"rc_Critico": 1.50,
+			"rc_UmbralCritico": 1.25,
+			"rc_ResiduoCritico": 1.00,
+			"rc_Vcritico": 7,
+			"rc_MuyImportante": 1.25,
+			"rc_UmbralMuyImportante": 1.25,
+			"rc_ResiduoMuyImportante": 1.25,
+			"rc_Vmuyimp": 6,
+			"rc_Importante": 1.00,
+			"rc_Importante": 1.00,
+			"rc_UmbralImportante": 1.00,
+			"rc_ResiduoImportante": 1.00,
+			"rc_Vimportante": 5
+		}
+	],
+	[
+		{
+			"sb_nombre": "Capacidad de Análisis",
+			"nr_decatipo2": 5
+		},
+		{
+			"sb_nombre": "Foco en el resultado",
+			"nr_decatipo2": 7
+		},
+		{
+			"sb_nombre": "Toma de Decisiones ",
+			"nr_decatipo2": 5
+		},
+		{
+			"sb_nombre": "Visión Estratégica",
+			"nr_decatipo2": 4
+		},
+		{
+			"sb_nombre": "Potencial para el Liderazgo ",
+			"nr_decatipo2": 6
+		}
+	],
+	[
+		{
+			"sb_nombre": "Proactividad",
+			"nr_decatipo2": 5
+		},
+		{
+			"sb_nombre": "Planificación y Organización",
+			"nr_decatipo2": 8
+		},
+		{
+			"sb_nombre": "Autocontrol",
+			"nr_decatipo2": 6
+		},
+		{
+			"sb_nombre": "Confianza y Seguridad",
+			"nr_decatipo2": 9
+		},
+		{
+			"sb_nombre": "Comunicación y Persuasión",
+			"nr_decatipo2": 8
+		}
+	],
+	[
+		{
+			"sb_nombre": "Conformidad",
+			"nr_decatipo2": 7
+		},
+		{
+			"sb_nombre": "Innovación",
+			"nr_decatipo2": 2
+		},
+		{
+			"sb_nombre": "Energía",
+			"nr_decatipo2": 7
+		},
+		{
+			"sb_nombre": "Resiliencia",
+			"nr_decatipo2": 7
+		},
+		{
+			"sb_nombre": "Trabajo en Equipo  ",
+			"nr_decatipo2": 3
+		}
+	],
+	[
+		{
+			"ca_id": 1,
+			"ca_nombre": "Gestión del Trabajo",
+			"ca_descripcion": "Es el conjunto de habilidades que delimitan la manera de trabajar de las personas. Se trata de las capacidades que usan los colaboradores para hacer su trabajo y llevar a cabo las tareas que se requieren en sus labores. Comprende las competencias: Administrando el propio desempeño, Atención al detalle, Capacidad de análisis, Conformidad, Foco en el resultado, Razonamiento matemático y Proactividad."
+		},
+		{
+			"ca_id": 2,
+			"ca_nombre": "Gestión del Negocio y el Entorno",
+			"ca_descripcion": "Es el conjunto de habilidades que les sirven a las personas para comprender la complejidad de los negocios y el entorno laboral. Incluye la disposición y tendencia que se tiene para influir y modificar las condiciones que configuran e impactan los negocios y el entorno. Comprende las competencias: Ambición, Innovación, Orientación hacia el Cliente, Planificación y Organización, Toma de decisiones y Visión estratégica."
+		},
+		{
+			"ca_id": 3,
+			"ca_nombre": "Gestión de Si Mismo",
+			"ca_descripcion": "Es el conjunto de habilidades que tienen las personas para manejarse a sí mismas de manera eficiente frente a las circunstancias del día a día en el trabajo. Se relaciona a la Inteligencia Intrapersonal y comprende las competencias: Autocontrol, Energía, Mentalidad, Resiliencia, Seguridad en sí mismo y Superación."
+		},
+		{
+			"ca_id": 4,
+			"ca_nombre": "Gestión de las Relaciones y el Equipo",
+			"ca_descripcion": "Es el conjunto de habilidades que usan las personas para manejarse eficientemente como miembros de un equipo y para ejercer una influencia positiva y recíproca sobre los demás. Se relaciona a la Inteligencia Interpersonal que despliegan las personas en el trabajo. Comprende las competencias: Comunicación  y persuación, Empatía, Interés interpersonal, Potencial para el Liderazgo y Trabajo en equipo."
+		}
+	],
+	[
+		{
+			"sb_nombre": "Administrando el propio Desempeño",
+			"sb_descripcion": "Ser consciente de su propia labor y de  la importancia de su propia contribución."
+		},
+		{
+			"sb_nombre": "Atención a los detalles",
+			"sb_descripcion": "Asegurar exactitud y calidad, siendo cuidadoso, y entregar  tareas y proyectos con precisión. "
+		},
+		{
+			"sb_nombre": "Capacidad de Análisis",
+			"sb_descripcion": "Análisis de datos, comprensión de las causas subyacentes e identificación de las partes de un problema, ordenándolas sistemáticamente y entendiendo el significado de cada una. "
+		},
+		{
+			"sb_nombre": "Conformidad",
+			"sb_descripcion": "Preferencia, interés y habilidad para seguir normas, reglas y procedimientos dentro de las organizaciones. "
+		},
+		{
+			"sb_nombre": "Foco en el resultado",
+			"sb_descripcion": "Atención a resultados concretos, insistencia en cumplir las tareas del trabajo, cumplimiento de metas organizacionales y del trabajo de corto y mediano plazo."
+		},
+		{
+			"sb_nombre": "Proactividad",
+			"sb_descripcion": "Iniciar acciones rápidas, dar respuesta a solicitudes del momento, mejorar el trabajo y tener iniciativa. "
+		},
+		{
+			"sb_nombre": "Razonamiento Matemático",
+			"sb_descripcion": "Inferir información a partir de datos numéricos, entender y explicar la realidad utilizando el lenguaje de números."
+		}
+	],
+	[
+		{
+			"sb_nombre": "Administrando el propio Desempeño",
+			"sb_descripcion": "Ser consciente de su propia labor y de  la importancia de su propia contribución."
+		},
+		{
+			"sb_nombre": "Atención a los detalles",
+			"sb_descripcion": "Asegurar exactitud y calidad, siendo cuidadoso, y entregar  tareas y proyectos con precisión. "
+		},
+		{
+			"sb_nombre": "Capacidad de Análisis",
+			"sb_descripcion": "Análisis de datos, comprensión de las causas subyacentes e identificación de las partes de un problema, ordenándolas sistemáticamente y entendiendo el significado de cada una. "
+		},
+		{
+			"sb_nombre": "Conformidad",
+			"sb_descripcion": "Preferencia, interés y habilidad para seguir normas, reglas y procedimientos dentro de las organizaciones. "
+		},
+		{
+			"sb_nombre": "Foco en el resultado",
+			"sb_descripcion": "Atención a resultados concretos, insistencia en cumplir las tareas del trabajo, cumplimiento de metas organizacionales y del trabajo de corto y mediano plazo."
+		},
+		{
+			"sb_nombre": "Proactividad",
+			"sb_descripcion": "Iniciar acciones rápidas, dar respuesta a solicitudes del momento, mejorar el trabajo y tener iniciativa. "
+		},
+		{
+			"sb_nombre": "Razonamiento Matemático",
+			"sb_descripcion": "Inferir información a partir de datos numéricos, entender y explicar la realidad utilizando el lenguaje de números."
+		}
+	],
+	[
+		{
+			"sb_nombre": "Administrando el propio Desempeño",
+			"sb_descripcion": "Ser consciente de su propia labor y de  la importancia de su propia contribución."
+		},
+		{
+			"sb_nombre": "Atención a los detalles",
+			"sb_descripcion": "Asegurar exactitud y calidad, siendo cuidadoso, y entregar  tareas y proyectos con precisión. "
+		},
+		{
+			"sb_nombre": "Capacidad de Análisis",
+			"sb_descripcion": "Análisis de datos, comprensión de las causas subyacentes e identificación de las partes de un problema, ordenándolas sistemáticamente y entendiendo el significado de cada una. "
+		},
+		{
+			"sb_nombre": "Conformidad",
+			"sb_descripcion": "Preferencia, interés y habilidad para seguir normas, reglas y procedimientos dentro de las organizaciones. "
+		},
+		{
+			"sb_nombre": "Foco en el resultado",
+			"sb_descripcion": "Atención a resultados concretos, insistencia en cumplir las tareas del trabajo, cumplimiento de metas organizacionales y del trabajo de corto y mediano plazo."
+		},
+		{
+			"sb_nombre": "Proactividad",
+			"sb_descripcion": "Iniciar acciones rápidas, dar respuesta a solicitudes del momento, mejorar el trabajo y tener iniciativa. "
+		},
+		{
+			"sb_nombre": "Razonamiento Matemático",
+			"sb_descripcion": "Inferir información a partir de datos numéricos, entender y explicar la realidad utilizando el lenguaje de números."
+		}
+	],
+	[
+		{
+			"sb_nombre": "Administrando el propio Desempeño",
+			"sb_descripcion": "Ser consciente de su propia labor y de  la importancia de su propia contribución."
+		},
+		{
+			"sb_nombre": "Atención a los detalles",
+			"sb_descripcion": "Asegurar exactitud y calidad, siendo cuidadoso, y entregar  tareas y proyectos con precisión. "
+		},
+		{
+			"sb_nombre": "Capacidad de Análisis",
+			"sb_descripcion": "Análisis de datos, comprensión de las causas subyacentes e identificación de las partes de un problema, ordenándolas sistemáticamente y entendiendo el significado de cada una. "
+		},
+		{
+			"sb_nombre": "Conformidad",
+			"sb_descripcion": "Preferencia, interés y habilidad para seguir normas, reglas y procedimientos dentro de las organizaciones. "
+		},
+		{
+			"sb_nombre": "Foco en el resultado",
+			"sb_descripcion": "Atención a resultados concretos, insistencia en cumplir las tareas del trabajo, cumplimiento de metas organizacionales y del trabajo de corto y mediano plazo."
+		},
+		{
+			"sb_nombre": "Proactividad",
+			"sb_descripcion": "Iniciar acciones rápidas, dar respuesta a solicitudes del momento, mejorar el trabajo y tener iniciativa. "
+		},
+		{
+			"sb_nombre": "Razonamiento Matemático",
+			"sb_descripcion": "Inferir información a partir de datos numéricos, entender y explicar la realidad utilizando el lenguaje de números."
+		}
+	],
+	[
+		{
+			"Bi_mbajo": "Pocas ocasiones se interesará en tareas de análisis. No parece disfrutar o tener mucha disposición hacia considerar por separado cada una de las partes que constituyen un problema con el objeto de sacar conclusiones. Para mejorar, debería empeñarse más y dedicar más esfuerzo al examen detallado y sistemático de los datos, los hechos y la información.  ",
+			"Bi_bajo": "Algunas ocasiones se interesará en tareas de análisis. En ocasiones es hábil para encontrar los datos y hechos principales de una situación. Puede, a veces, sacar conclusiones considerando por separado cada una de las partes que constituyen un problema. Sin embargo, para mejorar, pudiera empeñarse en dedicar más esfuerzo al examen detallado y sistemático de los datos, los hechos y la información.  ",
+			"Bi_medio": "Presenta una disposición positiva y habilidad moderada para el examen detallado de las cosas (datos, hechos e información).\r Encuentra los puntos principales de un problema y es hábil para extraer conclusiones separando o considerando por separado las partes que constituyen los problemas que se presentan en el trabajo.",
+			"Bi_alto": "Presenta una alta disposición y tendencia hacia el análisis detallado de las cosas, ya sean datos, hechos o información. \r Disfruta encontrando los puntos principales de un problema y extrae conclusiones separando o considerando por separado las partes que constituyen las situaciones o los problemas que se presentan en el trabajo.",
+			"Bi_malto": "Presenta muy alta disposición hacia  el examen detallado de las cosas, ya sean datos, hechos o información.  Disfruta el proceso de analizar las cosas y  encuentra con gran facilidad los puntos principales de un problema y extrae conclusiones separando las partes que constituyen las situaciones o los problemas que se presentan en el trabajo.",
+			"Bi_idSubCategoria": 1
+		},
+		{
+			"Bi_mbajo": "Muestra una actitud muy relajada frente a las necesidades repentinas que surgen en el entorno de trabajo. Es una persona de ritmo muy pausado y necesita estímulo para sentirse implicada en proponer y adoptar nuevas o mejores formas de trabajar. Si quisiera mejorar, quizás podría esforzarse en contribuir voluntaria y rápidamente, y tratar de hacer siempre más de lo que le corresponde, mostrando iniciativa y aportando, antes aún de que se le solicite ayuda.",
+			"Bi_bajo": "Muestra una actitud muy relajada frente a las necesidades repentinas que surgen en el entorno de trabajo. Es una persona de ritmo pausado y necesita estímulo para sentirse implicada en proponer y adoptar nuevas o mejores formas de trabajar. Si quisiera mejorar, quizás podría ver cómo puede contribuir voluntariamente, y tratar de hacer siempre más de lo que le corresponde, mostrando iniciativa y aportando, antes aún de que se le solicite ayuda.",
+			"Bi_medio": "Es capaz de mostrar proactividad e iniciativa. En ocasiones puede implicarse y reaccionar frente a las necesidades repentinas en el entorno de trabajo. Se involucra en las tareas de mejora y aporta sugerencias cuando el entorno así lo evidencia. En ocasiones busca soluciones a los problemas del entorno laboral por su propia cuenta.",
+			"Bi_alto": "Muestra proactividad, pudiendo generar alto valor agregado con su disposición y trabajo. Puede llegar a hacer más de lo que se espera de su trabajo. Encontrando oportunidades para hacer mejor las tareas y actividades. Suele buscar solución por su propia cuenta a los problemas que aparecen repentinamente en el entorno de trabajo.",
+			"Bi_malto": "Se desempeña con mucha iniciativa al trabajar y busca la producción constante de valor agregado. Muestra proactividad permanentemente. Es una persona que usualmente practica\r  la mejora continua. Probablemente estimula a sus compañeros o equipo a desarrollar la misma actitud proactiva, desarrollar nuevas iniciativas y mejoras en el trabajo.",
+			"Bi_idSubCategoria": 2
+		},
+		{
+			"Bi_mbajo": "Es posible que en ocasiones le resulte difícil obtener los resultados que se esperan de su trabajo. Quizás desconoce cómo organizar sus recursos para el cumplimiento de las tareas que se le asignan. \r Si quisiera mejorar, quizás podría hacer un esfuerzo por mantener la concentración para terminar las asignaciones y metas planteadas.",
+			"Bi_bajo": "Es posible que en ocasiones le resulte retador enfocarse en los resultados del día a día, quizás por estar pensando en las grandes metas de su trabajo. Quizás pueda organizar aún más sus recursos para el cumplimiento de las tareas de corto plazo que le corresponden. Si quisiera mejorar, quizás podría hacer un esfuerzo por terminar las asignaciones y las metas planteadas, aún cuando otras tareas o asignaciones reclamen su atención en el momento. ",
+			"Bi_medio": "Alcanza regularmente las metas fijadas, aunque puede requerir de motivación o recursos externos, \r ya que en algunas ocasiones puede desviar su enfoque de la tarea y disminuir la eficacia que podría alcanzar.",
+			"Bi_alto": "Sabe mantener el foco en la meta de trabajo y cumple con holgura las metas y objetivos que se le asignan. Con frecuencia, manifiesta una disposición a culminar los trabajos y obtener resultados concretos.",
+			"Bi_malto": "Mantiene un elevado enfoque hacia el cumplimiento de sus asignaciones, y además manifiesta una excelente disposición hacia el cumplimiento de las metas asignadas.  Cumple con holgura las metas y objetivos que se le asignan. Despliega conductas constantes dirigidas a alcanzar metas y objetivos claves, excediendo los parámetros definidos y superando desafíos del entorno de trabajo.",
+			"Bi_idSubCategoria": 3
+		},
+		{
+			"Bi_mbajo": "Algunas veces se esmera en entregar pulimiento y detalle en las tareas que realiza, pero, quizás por ser una persona orientada en otras competencias, parece tener limitado interés en la minucia, el detalle y la precisión. Pudiera beneficiarse de recibir supervisión y entrenamiento en esta competencia, o delegar estas funciones en otras personas. Sin embargo, si quisiera mejorar, pudiera empeñarse dedicando aún más esfuerzo a enfocarse en los detalles, vigilar la calidad de su propio desempeño en las tareas que requieran detalle, y aportar aún más precisión en el trabajo.",
+			"Bi_bajo": "En ocasiones pone atención al detalle y produce trabajos de calidad. Tiene cierto interés en que las cosas queden bien terminadas y conoce qué tareas necesita realizar para el cumplimiento de sus asignaciones. Sin embargo, si quisiera mejorar, pudiera empeñarse dedicando más esfuerzo a enfocarse en los detalles, y aportar aún más precisión en el trabajo.",
+			"Bi_medio": "Usualmente produce resultados de calidad en los trabajos que lleva a cabo. Tiene moderado interés en que las cosas queden bien terminadas y conoce qué tareas necesita realizar para el cumplimiento de sus asignaciones. En ocasiones se enfoca en los detalles y aporta precisión y calidad en el trabajo que realiza.",
+			"Bi_alto": "Con mucha frecuencia produce resultados de calidad en los trabajos que lleva a cabo. Se asegura que su trabajo quede \r bien hecho, completo y exacto. Conoce qué tareas necesita realizar para el cumplimiento de sus asignaciones y generar un valor. Está enfocado en los detalles y aporta precisión y calidad en el trabajo que realiza.",
+			"Bi_malto": "Pule con mucha precisión y valida la información de manera de producir trabajos de gran calidad. Siempre se asegura que su trabajo quede bien hecho, completo y exacto. Complementa\r  su trabajo con esfuerzos adicionales para presentarlo de la forma más completa posible.",
+			"Bi_idSubCategoria": 4
+		},
+		{
+			"Bi_mbajo": "Es muy probable que valore mucho el balance entre trabajo y vida personal. Es poco probable que sacrifique otros aspectos de su vida por cumplir con responsabilidades laborales extraordinarias. \r Podría no conectar la relación entre su desempeño y resultados de la organización. Para mejorar podría asumir un monitoreo mucho más atento y dedicado de su propio desempeño.",
+			"Bi_bajo": "Es muy probable que valore mucho el balance trabajo/vida personal. En algunas ocasiones puede sacrificar otros aspectos de su vida por cumplir con responsabilidades laborales extraordinarias. Alguna vez podría no conectar la relación entre su desempeño y la organización. Para mejorar podría asumir un monitoreo aún más atento y dedicado de su propio desempeño.",
+			"Bi_medio": "Mantiene un balance entre vida y trabajo, pero es evidencia serio y efectivo compromiso con su tiempo laboral y los recursos de la organización, disponiendo de alta dedicación cuando esta sea necesario. Es capaz de tomar responsabilidades adicionales y sacrificar momentáneamente otros aspectos de su vida, por cumplir con responsabilidades laborales extraordinarias.",
+			"Bi_alto": "Entiende claramente el valor de su desempeño y protege con su trabajo el patrimonio y la oferta de valor de su organización. Con su compromiso y dedicación, excede las expectativas y es muy probable que pueda sacrificar otros aspectos de su vida por cumplir con responsabilidades laborales extraordinarias.",
+			"Bi_malto": "Entiende claramente el valor de su desempeño y defiende con firmeza el patrimonio y la oferta de valor de su organización. Con su extraordinario compromiso y dedicación, excede las \r expectativas y sacrifica otros aspectos de su vida por cumplir con responsabilidades laborales extraordinarias.",
+			"Bi_idSubCategoria": 5
+		},
+		{
+			"Bi_mbajo": "Evita trabajar con datos numéricos. Podría costarle entender las relaciones y tendencias que se extraen de la lectura e interpretación de los datos numéricos. Si quisiera mejorar, \r quizás podría practicar hacer operaciones numéricas con frecuencia, e intentar analizar tablas y cuadros numéricos.",
+			"Bi_bajo": "Evita trabajar con datos numéricos. Podría costarle entender las relaciones y tendencias que se extraen de la lectura e interpretación de los datos numéricos. \r Por ejemplo, tareas que impliquen comprender datos provenientes de tablas, cuadros y gráficas. Si quisiera mejorar, quizás podría practicar hacer operaciones numéricas con frecuencia, e intentar analizar tablas y cuadros numéricos.",
+			"Bi_medio": "Entiende los datos y las relaciones numéricas. Le atrae la información numérica, y usa conceptos numéricos para completar las tareas y agregar valor. \r Es capaz de sintetizar algunas tendencias inferidas por información numérica y categorizar lo prioritario.",
+			"Bi_alto": "Examina, agrupa, descompone, sintetiza los datos numéricos para resolver problemas e identificar tendencias. Tiene una disposición muy positiva y le atrae la información numérica, y usa conceptos numéricos para completar las tareas, agregar valor y añadir sentido a la información disponible. Entiende rápidamente los datos clave provenientes de tablas, cuadros y gráficas",
+			"Bi_malto": "Examina, agrupa, descompone y sintetiza con mucha propiedad los datos numéricos para resolver problemas e identificar tendencias. Disfruta y le atrae el trabajo y la información numérica, y usa conceptos\r  numéricos para completar las tareas, agregar valor y añadir sentido a la información disponible. Tiene facilidad para entender rápidamente datos clave e ideas importantes provenientes de tablas, cuadros y gráficas.",
+			"Bi_idSubCategoria": 6
+		},
+		{
+			"Bi_mbajo": "Prefiere que las decisiones importantes se tomen en conjunto o las tomen otras personas. Es posible que sienta que necesita deliberar mucho para decidirse. Para mejorar podría practicar estos pasos:  identificar el problema; identificar las alternativas; evaluar cómo cada una afecta las prioridades de la organización; centrarse en la que aporta el mejor resultado; ejecutarla; y finalmente, monitorear los resultados en el equipo y la organización.",
+			"Bi_bajo": "En ocasiones disfruta de hacerse cargo de tomar decisiones, pero en general prefiere  que las decisiones importantes se tomen en conjunto o las tomen otras personas. Para mejorar podría practicar estos pasos: identificar el problema; identificar las alternativas; evaluar cómo cada una afecta las prioridades de la organización; centrarse en la que aporta el mejor resultado; ejecutarla; y finalmente, monitorear los resultados en el equipo y la organización.",
+			"Bi_medio": "En ocasiones disfruta de hacerse cargo de tomar decisiones. Es capaz de valorar varias opciones y seguir un rumbo una vez hecha la elección. \r Demuestra niveles moderados de capacidad de toma de decisión. En ocasiones puede necesitar más tiempo para concluir el proceso de reflexión previo al momento de la decisión.",
+			"Bi_alto": "Disfruta de hacerse cargo de tomar decisiones aún ante problemas complejos. Se siente capaz de elegir entre varias opciones y seguir un rumbo una vez hecha la elección. Asume la responsabilidad  y se siente seguro ante las posibles consecuencias de sus decisiones en el trabajo.  Entiende la importancia de tomar opciones para el buen funcionamiento de la organización y se maneja con tranquilidad ante las situaciones de importancia.",
+			"Bi_malto": "Disfruta de hacerse cargo de tomar decisiones aún ante problemas complejos. Se siente capaz de elegir entre varias opciones y seguir un rumbo una vez hecha la elección. Asume la responsabilidad  y se siente cómodo y seguro ante las posibles consecuencias de sus decisiones en el trabajo. Entiende la importancia de tomar opciones para el buen funcionamiento de la organización y se maneja con seguridad ante las situaciones de importancia.",
+			"Bi_idSubCategoria": 7
+		},
+		{
+			"Bi_mbajo": "Tiende a ser muy flexible en su organización y planificación del trabajo. Debe hacer grandes esfuerzos para definir, priorizar y sostener en el tiempo las tareas planificadas, pues de lo contrario pierde el foco o se desgasta en muchas tareas que no se terminan. Si quisiera mejorar, será necesario que ponga mucha atención para lograr organizarse, desplegar las acciones necesarias y cumplir con los plazos previstos.",
+			"Bi_bajo": "Tiende a ser flexible en su organización y planificación del trabajo. Debe hacer esfuerzos para definir, priorizar y sostener en el tiempo las tareas planificadas. Si quisiera mejorar, será necesario que ponga mucha atención para lograr organizarse, desplegar las acciones necesarias y cumplir con los plazos previstos.",
+			"Bi_medio": "Sabe ordenar su tiempo y priorizar los recursos con un acompañamiento y orientación puntual, lo que le permite con cierta eficacia lograr \r sus planes de trabajo. Sabe poner atención y voluntad para desplegar las acciones necesarias y cumplir con los objetivos en el tiempo apropiado.",
+			"Bi_alto": "Efectivo al ordenar las acciones, manejar el tiempo y recursos para alcanzar con mucha frecuencia los objetivos\r  claves de la organización. Cuenta con buenas capacidades y habilidades de organización y planificación para su uso en el trabajo diario.",
+			"Bi_malto": "Sumamente efectivo al ordenar su trabajo coherentemente para alcanzar metas y resultados de todos los niveles.  Es capaz de contribuir a desplegar herramientas y tácticas de ordenamiento entre sus compañeros.",
+			"Bi_idSubCategoria": 8
+		},
+		{
+			"Bi_mbajo": "Se enfoca más en el día a día y tiene muy poco interés en el futuro. En ejercicios o conversaciones estratégicas le es difícil observar la complejidad, todos los ángulos, actores, factores e impactos del entorno del negocio.  Para mejorar, debe esforzarse en entender y estudiar los factores del entorno y comprender cómo éstos impactan positiva o negativamente los negocios.",
+			"Bi_bajo": "Se enfoca más en el día a día y tiene muy poco interés en el futuro. Puede identificar algunos retos u oportunidades del entorno, pero puede que \r le resulte difícil entender otros factores del entorno de los negocios y hacer acciones, planes y propuestas que mitiguen posibles impactos negativos.",
+			"Bi_medio": "Entiende la realidad de un entorno cambiante y puede dar un apoyo puntual, desarrollando cierta comprensión de las perspectivas futuras en las\r  cuales se desenvuelve la organización. Identifica algunos retos u oportunidades del entorno, y en ocasiones es capaz de proponer acciones concretas que mitiguen posibles impactos negativos.",
+			"Bi_alto": "Muestra una tendencia natural a mirar las relaciones entre los eventos en el entorno de negocios. Identifica con facilidad desafíos emergentes y entiende el horizonte potencial que enfrenta la organización, determinando las áreas claves para orientar la acción a futuro.",
+			"Bi_malto": "Muestra una tendencia natural a mirar las relaciones entre los eventos en el entorno de negocios. Con amplia capacidad de identificar con claridad retos y oportunidades del entorno de la organización, llegando a determinar líneas de actuación y el uso de las tácticas más apropiadas para aprovechar las condiciones futuras.",
+			"Bi_idSubCategoria": 9
+		},
+		{
+			"Bi_mbajo": "Tiene muy poco interés por generar ideas o soluciones originales. Más bien disfruta de la estabilidad en la forma de hacer las cosas en el trabajo y puede ser muy eficiente dentro de parámetros y procedimientos estables y de \"estatus quo\". No tiene disposición interna hacia la innovación y cuando enfrenta nuevos problemas necesita apoyo para solucionarlos.",
+			"Bi_bajo": "En el trabajo, disfruta de las cosas \"\"como son\"\", y no tiene una necesidad de innovar. Necesita de una supervisión y circunstancias \r apropiadas para producir iniciativas innovadoras . Aun así, puede colaborar con terceros para articular soluciones originales; más sin ese apoyo, tiene dificultad para generar ideas de cambio.",
+			"Bi_medio": "Con cierta frecuencia produce aportes novedosos y contribuye a esfuerzos creativos dentro de la organización. Generalmente se adapta a los cambios que otros han generado. En un entorno positivo puede producir algunas iniciativas innovadoras y generar valor. ",
+			"Bi_alto": "Tiene capacidad para generar valor agregado produciendo alternativas, ideas o productos mejorados sobre lo que actualmente se trabaja.  Es una persona abierta y promotora del cambio. ",
+			"Bi_malto": "Fuerte capacidad para generar nuevas soluciones, aplicar tácticas y herramientas de formas novedosas para optimizar el funcionamiento de la organización o aumentar su capacidad. Es una persona muy abierta y gran promotora del cambio.",
+			"Bi_idSubCategoria": 10
+		},
+		{
+			"Bi_mbajo": "Le resulta un gran reto el contacto constante con clientes. Prefiere hacer las tareas que tiene entre manos en vez de dejar lo que está haciendo para atender una necesidad emergente de un cliente. Tiende a tener una disposición mucho menos servicial que la mayoría de los colaboradores. Si quisiera mejorar, debería asumir que su trabajo sólo tiene sentido si gira en torno a las necesidades de los clientes.",
+			"Bi_bajo": "Le resulta un reto el contacto constante con clientes. Prefiere hacer las tareas que tiene entre manos en vez de dejar lo que está haciendo para atender \r una necesidad emergente de un cliente. Tiende a tener una disposición menos servicial que la mayoría de los colaboradores. Si quisiera mejorar, debería asumir que su trabajo sólo tiene sentido si gira en torno a las necesidades de los clientes.",
+			"Bi_medio": "Generalmente mantiene buena relación con los clientes. En la mayoría de los casos puede resolver a satisfacción las situaciones presentadas.\r  Puede manejar situaciones incómodas y difíciles tanto de los clientes internos como externos.",
+			"Bi_alto": "Presta atención a las necesidades de los clientes, es un efectivo navegador de la organización interna e incluso es capaz de proponer\r  mejoras para satisfacer los requerimientos de los clientes. Demuestra entusiasmo ante el contacto con los clientes y transmite una actitud servicial.",
+			"Bi_malto": "Muy sensible a las necesidades de los clientes. Resuelve asertivamente conflictos con clientes internos y externos. Además, es capaz de generar bienestar en los clientes. Demuestra mucho entusiasmo ante el contacto con los clientes y transmite una actitud servicial.",
+			"Bi_idSubCategoria": 11
+		},
+		{
+			"Bi_mbajo": "En ocasiones puede sentir que necesita más confianza y seguridad. Podría ser muy autocrítico sobre sus propias capacidades, impidiéndole ponerlas en ejecución dentro de sus tareas. Si quisiera mejorar, pudiera trabajar su seguridad personal, esforzándose por controlar su diálogo interno y mostrar un poco más de voluntad al tomar el reto de asumir una posición independiente frente a la oposición.",
+			"Bi_bajo": "Posee un moderado nivel de confianza y seguridad personal. Generalmente se enfrenta con tranquilidad a nuevos roles y se comunica adecuadamente en\r  situaciones de trabajo. Sin embargo, si quisiera mejorar, pudiera trabajar su confianza y seguridad esforzándose por controlar su diálogo interno y mostrar un poco más de voluntad al tomar el reto de asumir una posición independiente.",
+			"Bi_medio": "Posee un moderado nivel de confianza personal y es capaz de proyectarlo a los demás. Generalmente se enfrenta con tranquilidad a nuevos\r  roles y se comunica adecuadamente en situaciones de trabajo. Tiene una considerable voluntad de tomar una posición independiente frente a la oposición.",
+			"Bi_alto": "Proyecta un alto nivel de confianza en su propio valor como persona y sus propias capacidades. Tiene capacidad para enfrentar situaciones y dificultades en el trabajo con tranquilidad e introspección para reconocer sus propios errores. En situaciones de discusión es capaz de tomar su propia posición frente a la oposición.",
+			"Bi_malto": "Proyecta un alto nivel de confianza en su propio valor como persona y en sus propias capacidades. Muestra gran capacidad para enfrentar situaciones y dificultades en el trabajo con tranquilidad e introspección para reconocer sus propios errores. En situaciones de discusión es capaz de tomar su propia posición frente a la oposición.",
+			"Bi_idSubCategoria": 12
+		},
+		{
+			"Bi_mbajo": "Tiene la tendencia a mostrarse satisfecho  con lo que sabe y con los conocimientos o la formación que ha adquirido en el pasado; sintiéndose complacido con su nivel actual de conocimientos o destrezas. \r Si quisiera mejorar, podría buscar activamente aprovechar las oportunidades de crecimiento que se presentan en el trabajo e ir en pos de los intereses profesionales que lo motivan.",
+			"Bi_bajo": "Tiene la tendencia a mostrarse satisfecho con lo que sabe y con las oportunidades que ha tenido, sintiéndose complacido con su nivel actual de conocimientos o destrezas. \r Mantiene un desempeño acucioso de las tareas que realiza constantemente. Si quisiera mejorar, debería buscar activamente aprovechar las oportunidades de crecimiento personal o profesional que se presentan e ir en pos de los intereses profesionales que lo motivan.",
+			"Bi_medio": "Muestra interés en el mejoramiento de sus propias capacidades. Lo motivan la superación personal, particularmente en los temas que maneja \r cotidianamente. Tiene cierto interés en la construcción de su capital de carrera. Está dispuesto a capacitarse y superarse para beneficio propio y de la organización. Manifiesta disponibilidad de colaborar con colegas y terceros en la exploración de mejores prácticas, y el intercambio de nuevas maneras de hacer el trabajo.",
+			"Bi_alto": "Muestra un alto interés en el mejoramiento de sus propias capacidades. Lo motivan los temas que maneja y también las nuevas áreas de conocimiento. Muy atento a la construcción de su capital de carrera. Dispuesto a capacitarse incluso en su tiempo libre. Manifiesta disponibilidad y apertura de compartir o colaborar con colegas y terceros en la exploración intelectual y práctica, el intercambio de maneras de trabajar y la capacitación permanente.",
+			"Bi_malto": "Muestra un interés permanente en el mejoramiento de sus propias capacidades. Muy atento a la construcción de su capital de carrera. Lo motivan los temas que maneja y también las nuevas áreas de conocimiento. Dispuesto a capacitarse con recursos propios o incluso en su tiempo libre para beneficio propio y de la organización. Manifiesta disponibilidad y apertura de compartir o colaborar con colegas y terceros en la exploración intelectual y práctica.",
+			"Bi_idSubCategoria": 13
+		},
+		{
+			"Bi_mbajo": "Experimenta las emociones  con intensidad y en situaciones de mucho estrés pudiera tener que hacer un gran esfuerzo para mantener la calma. Si quisiera mejorar, debería serenarse y hacerse consciente de su nivel de estrés emocional. Además, debería trabajar en técnicas para responder en vez de reaccionar y así lograr enfrentar las situaciones con mesura y una actitud más ecuánime.",
+			"Bi_bajo": "Experimenta las emociones con intensidad y en situaciones de mucho estrés pudiera tener que hacer un esfuerzo para mantener la calma. Si quisiera mejorar,\r  debería serenarse y hacerse consciente de su nivel de estrés emocional. Debería trabajar en técnicas para responder en vez de reaccionar y así lograr enfrentar las situaciones con mesura y una actitud más ecuánime.",
+			"Bi_medio": "Generalmente se mantiene tranquilo frente a obstáculos en el trabajo o ante situaciones de alto nivel de estrés. Maneja con efectividad su propia conducta. Evita las expresiones emocionales intensas e intenta distanciarse de conflictos y hostilidades en el entorno.  Aunque puede sentirse agobiado en circunstancias muy particulares,  generalmente recupera la compostura. ",
+			"Bi_alto": "Se mantiene tranquilo frente a obstáculos en el trabajo o ante situaciones de alto nivel de estrés. No pierde la compostura y suele calmarse con rapidez. \r Expresa su inconformidad de manera cómoda, respetando los espacios personales y las jerarquías dentro de la organización. Al tener un buen dominio emocional puede actuar efectivamente a las fricciones laborales en su entorno.",
+			"Bi_malto": "Mucha capacidad para mantenerse muy tranquilo frente a obstáculos y situaciones de alto nivel de estrés. Siempre mantiene la compostura y se tranquiliza rápidamente luego de molestarse. Expresa inconformidad de manera cómoda, respetando los espacios personales y las jerarquías dentro de la organización. Su conducta favorece un clima de trabajo y de relaciones con terceros armonioso.",
+			"Bi_idSubCategoria": 14
+		},
+		{
+			"Bi_mbajo": "En períodos extendidos de trabajo muy probablemente mostrará fatiga, cansancio o incomodidad laboral. Para mejorar: fortalezca hábitos de concentración y persistencia; encuentre formas de motivarse; y reconozca la contribución que está haciendo en su organización. Asegure un óptimo cuidado personal; con buena alimentación (muy baja en azúcares refinados), ejercicios de estiramiento muscular y respiración, además de ejercicio físico regular y descanso reparador. ",
+			"Bi_bajo": "Presenta un nivel moderado de dinamismo al realizar sus labores. Sin embargo, en períodos extendidos puede mostrar cierto grado de fatiga, o incomodidad laboral. Para mejorar: fortalezca hábitos de concentración y persistencia; encuentre formas de motivarse; reconozca la contribución que está haciendo en su organización. Asegure un óptimo cuidado personal; con buena alimentación (muy baja en azúcares refinados), ejercicios de estiramiento muscular y respiración, además de ejercicio físico regular y descanso reparador.",
+			"Bi_medio": "Tiene buen nivel de energía para la realización de las tareas de la organización, y trabaja en varias actividades con buena concentración. Usualmente despliega un dinamismo en su actitud, incluso cuando la jornada tiene un requerimiento intelectual alto. Suele ser una persona que muestra un buen nivel de vigor en su desempeño.",
+			"Bi_alto": "Tiene un alto nivel de energía para la realización de las tareas de la organización, sin perder concentración. Mantiene un dinamismo en el desempeño de\r  sus tareas y actuaciones laborales sin manifestar mucho cansancio ni decaimiento, incluso cuando la jornada tiene un requerimiento intelectual alto. Suele ser una persona que dinámica que cataliza la energía positiva del resto de los miembros en su entorno laboral.",
+			"Bi_malto": "Tiene un destacado nivel de energía y vigor para la realización de las tareas de la organización, lo que le permite trabajar en varias actividades, sin perder concentración. Mantiene un fuerte dinamismo en el desempeño de sus tareas y sin decaimiento significativo, incluso cuando la jornada tiene un requerimiento intelectual alto. Es una persona dinámica que cataliza positivamente la energía del resto de los miembros en su entorno laboral.",
+			"Bi_idSubCategoria": 15
+		},
+		{
+			"Bi_mbajo": "Requiere de más tiempo y esfuerzo para recuperarse de situaciones adversas, difíciles y muy estresantes que se presentan en el trabajo. Si quisiera mejorar, debería asumir constantemente una actitud positiva ante las adversidades, de manera que pueda aprender a transformar las experiencias y eventos negativos en oportunidades de crecimiento personal.  ",
+			"Bi_bajo": "Requiere de más tiempo, energía y esfuerzo para recuperarse de situaciones adversas, difíciles y muy estresantes que se presentan en el trabajo. Si quisiera mejorar, \r debería asumir constantemente una actitud positiva ante las adversidades, de manera que pueda aprender a transformar las experiencias y eventos negativos en oportunidades de crecimiento personal.",
+			"Bi_medio": "Pudiera demorarse un poco, pero se recupera de las situaciones adversas que se le presentan en su ámbito profesional. Generalmente trata de aprovechar las experiencias y eventos negativos para convertirlos en oportunidades de crecimiento personal. Con cierta frecuencia persiste ante los obstáculos o las dificultades en el trabajo. ",
+			"Bi_alto": "Se recupera con relativa rapidez de las situaciones adversas que se le presentan en su ámbito profesional. Generalmente logra aprovechar las experiencias\r  y eventos negativos para convertirlos en oportunidades de crecimiento personal. Con cierta frecuencia persiste ante los obstáculos o las dificultades en el trabajo.",
+			"Bi_malto": "Se recupera rápidamente ante situaciones adversas que se le presentan en su ámbito profesional. Maximiza las oportunidades de transformar las experiencias y eventos negativos en oportunidades \r de crecimiento personal. Persiste ante los obstáculos o las dificultades en el trabajo. ",
+			"Bi_idSubCategoria": 16
+		},
+		{
+			"Bi_mbajo": "Tiene poco interés en interactuar con otras personas. No se destaca por la multiplicidad de sus relaciones, sino más bien por la profundidad de las mismas. Si quisiera mejorar, debería ser más intencional en el manejo y el cuidado de cada una de sus relaciones interpersonales, valorándolas como un talento y una riqueza y educándose en cómo cultivarlas.",
+			"Bi_bajo": "Tiene un interés moderado, pero sincero en interactuar con otras personas en su entorno. Aunque no se destaca por la multiplicidad de sus relaciones,\r  la profundidad de las mismas es significativa. Si quisiera mejorar, debería ser más intencional en el manejo y el cuidado de cada una de sus relaciones interpersonales de trabajo.",
+			"Bi_medio": "Tiene un genuino interés por crear relaciones con las personas y está consciente de cómo influye el crear contactos en lo personal y laboral, de tal manera que vinculan sus acciones a fomentar la comunicación y relación. Construye capital social en beneficio de la organización al disfrutar de hacer amigos en el trabajo, reunirse con personas conocidas o nuevas, y pasar tiempo con ellos.",
+			"Bi_alto": "Interactúa cómoda y eficazmente con las personas de diferentes entornos. Tiene un genuino interés por crear relaciones y está consciente de cómo influye \r el crear contactos en lo personal y en lo laboral, dirige sus acciones a fomentar y las relaciones. Construye capital social en beneficio de la organización al disfrutar\r  de hacer amigos en el trabajo, reunirse con personas conocidas o nuevas, y pasar tiempo con ellos.",
+			"Bi_malto": "Tiene un profundo y genuino interés por construir relaciones. Genera mayor valor para su entorno fortaleciendo y sosteniendo excelentes relaciones. Construye capital social en beneficio de la organización al disfrutar de hacer amigos en el trabajo, reunirse con personas, y pasar tiempo con ellos. Establece contactos y desarrolla relaciones y disfruta de conversar con los demás.",
+			"Bi_idSubCategoria": 17
+		},
+		{
+			"Bi_mbajo": "Generalmente le es muy difícil entender las emociones de los demás y empatizar, o también expresarse apropiadamente para apoyar a los demás en situaciones difíciles. Para mejorar, puede educarse para identificar y reconocer las emociones propias y de las demás personas. Además, podría esforzarse por obtener una comprensión emocional profunda de las emociones de sus compañeros.",
+			"Bi_bajo": "En ocasiones se le puede dificultar entender las emociones de los demás y empatizar, descifrar el significado implícito de las emociones de las personas o\r  también expresarse apropiadamente para apoyar a los demás en situaciones difíciles. Para mejorar, puede educarse en reconocer las emociones propias y de las demás personas. Además, podría esforzarse por obtener una comprensión emocional profunda de las emociones de sus compañeros.",
+			"Bi_medio": "Puede interpretar con relativa propiedad las emociones de los compañeros y clientes. Es competente para encontrar formas de acercarse a \r otros para apoyarlos. Comprende las emociones de otras personas y sabe producir un dialogo o encuentro emocional satisfactorio. Es capaz de expresar solidaridad y apoyo emocional.",
+			"Bi_alto": "Interpreta con precisión lo que sienten y piensan los demás. Encuentra formas no amenazantes de acercarse otros para apoyarlos cuando están mal. \r Posee buena comprensión de las emociones de otras personas y la usa para producir un dialogo emocional satisfactorio. Tiende a vincularse con facilidad a las emociones de otros, y puede construir un puente intelectual y emocional con terceros e interactuar con personas que enfrentan situaciones difíciles.",
+			"Bi_malto": "Interpreta con maestría y precisión lo que sienten y piensan los demás. Encuentra formas no amenazantes de acercarse otros. Posee buena comprensión de las emociones de otras personas para producir un dialogo emocional satisfactorio. Tiende a vincularse con facilidad a las emociones de otros, y puede construir un puente intelectual y emocional con terceros e interactuar activamente con personas que enfrentan situaciones difíciles.",
+			"Bi_idSubCategoria": 18
+		},
+		{
+			"Bi_mbajo": "Muy baja disposición a utilizar las capacidades de expresión verbal para influir sobre los demás. Es posible que no sienta destreza en su uso del lenguaje y evidencia una baja capacidad para interesar y persuadir a las personas de su mensaje. Si quisiera mejorar, debería prepararse y practicar con intencionalidad para desarrollar técnicas conversacionales, de influencia y de comunicación interpersonal.",
+			"Bi_bajo": "Tiene poca disposición a utilizar las habilidades verbales para influir sobre los demás. Es posible que su uso del lenguaje sea moderado y no tenga mucha habilidad para interesar o persuadir a las personas de su mensaje. Si quisiera mejorar, debería prepararse y practicar con intencionalidad para desarrollar técnicas conversacionales, de influencia y de comunicación interpersonal.",
+			"Bi_medio": "Tiene una moderada  capacidad de utilizar sus habilidades verbales para influir sobre los demás. Es posible que tenga un nivel moderado de habilidades persuasivas y que pueda interesar o persuadir a algunas  personas de su mensaje. Si quisiera mejorar, debería prepararse y practicar con intencionalidad para desarrollar técnicas conversacionales, de influencia y de comunicación interpersonal. Probablemente tiene tan buen vocabulario como la mayoría de las personas.",
+			"Bi_alto": "Tiene una fuerte disposición a utilizar su habilidad verbal para influir sobre los demás. Es diestro en el uso de las habilidades de  persuasión. Domina con pericia el lenguaje y logra interesar a sus oyentes en su mensaje. Posee un vasto vocabulario y lo usa de manera fluida.",
+			"Bi_malto": "Tiene altas capacidades de expresión oral y una fuerte disposición a utilizar su habilidad verbal para influir sobre los demás. Es una persona muy diestra en el uso de la persuasión. Domina con suma pericia el lenguaje y las técnicas de comunicación con distintos públicos, haciendo que quienes le escuchan comprendan y se interesen en el mensaje. Posee un vasto vocabulario y lo usa de manera fluida.",
+			"Bi_idSubCategoria": 19
+		},
+		{
+			"Bi_mbajo": "Prefiere trabajar por sí mismo y presenta muy poca disposición a vincularse a trabajos en equipo, ni a facilitar la cohesión del grupo. Más bien busca oportunidades de disminuir su participación en equipos de trabajo, pues seguramente trabaja mejor solo. Si quisiera mejorar, debería hacer un esfuerzo por sumarse a las interacciones de equipo, contribuir con el trabajo de los demás y expresar sus opiniones en un equipo de trabajo. De igual manera, podría tomar nota y  disfrutar activamente de los logros que se consiguen con el trabajo en equipo.",
+			"Bi_bajo": "Sabe trabajar en equipo, pero usualmente prefiere trabajar por sí mismo. Disfruta el trabajo intelectual u operativo trabajando sólo. No es muy hábil a la hora de \r facilitar la cohesión del equipo, pues probablemente piensa que cada quien debe saber qué hacer. Puede llegar a buscar activamente disminuir su participación en equipos de trabajo. Se recomienda hacer un esfuerzo por participar más activamente, contribuir con el trabajo de los demás, escuchar más y expresar más sus opiniones en el equipo de trabajo, además de intentar disfrutar los logros que se consiguen con el trabajo en equipo.",
+			"Bi_medio": "Disfruta trabajar en equipo algunas veces, pero otras veces prefiere trabajar por sí mismo y desarrollar tareas y trabajos de forma individual.  \r Puede colaborar activamente con grupos de trabajo para que el equipo funcione correctamente y en ocasiones fomenta la cohesión y buenas relaciones en el equipo.",
+			"Bi_alto": "Disfruta y fomenta los ambientes de trabajo donde las personas interactúan y se valora la cooperación.  Es un miembro activo de los equipos de trabajo donde participa. Fomenta la armoniosa integración de los equipos de trabajo y facilita su organización, creando un entorno efectivo para lograr sus objetivos y apoyar así la fluidez en los procesos laborales. ",
+			"Bi_malto": "Disfruta fomentar los ambientes de trabajo donde las personas interactúan frecuentemente y se valora la cooperación. Es un miembro activo de los equipos de trabajo donde participa.  Manifiesta una cualidad de fomentar la cohesión y potenciar una relación armónica entre las expectativas, las capacidades, las vocaciones y los talentos de sus colegas. Aunque no sea el líder formal del equipo, es un miembro esencial del mismo.",
+			"Bi_idSubCategoria": 20
+		},
+		{
+			"Bi_mbajo": "Evita activamente las posiciones de liderazgo y dirección de personas, y prefiere trabajar en un segundo plano. Muestra poca inclinación hacia generar entusiasmo en sus compañeros y es posible que no sienta necesidad de animar a sus compañeros a mejorar en el cumplimiento de los objetivos del trabajo. Si quisiera mejorar, podría aceptar y solicitar tareas o posiciones que demanden estar a cargo y tener que impartir orientaciones o dar direcciones a los demás.",
+			"Bi_bajo": "Tiende a alejarse de las posiciones de dirección y liderazgo, aunque en algunas ocasiones puede asumirlas de buen agrado. Se siente inclinado a trabajar en un segundo plano y generar entusiasmo para la mejora en los objetivos del trabajo desde ese lugar. Muestra poca inclinación hacia las posiciones de poder y jerarquía. Si quisiera mejorar podría aceptar y solicitar tareas o posiciones que demanden estar a cargo y tener que impartir orientaciones o dar direcciones a los demás.",
+			"Bi_medio": "Asume de buen agrado posiciones de dirección o liderazgo, aunque en ocasiones también puede preferir trabajar en un segundo plano. Tiene inclinación a generar entusiasmo y en ocasiones anima la mejora en los objetivos del trabajo. A pesar que no tiene una fuerte inclinación a estar a cargo en posiciones de dirección, lo puede hacer cuando se requiere. Puede impartir orientaciones o dar direcciones cuando es necesario.",
+			"Bi_alto": "Se siente muy cómodo en posiciones de dirección, pues tiene gran habilidad para liderar e influir en los demás. Genera entusiasmo en sus compañeros y subalternos, y anima la mejora en la consecución de los objetivos del trabajo. Asume posiciones de liderazgo con confianza, y tiene inclinación a ofrecer consejo o guía a los demás de manera natural.",
+			"Bi_malto": "Se siente muy cómodo en posiciones de dirección, pues tiene gran habilidad para liderar e influir en los demás. Actúa decididamente para motivar a su equipo y ayudarlos a crecer. Genera entusiasmo en sus compañeros y subalternos, y anima la mejora en la consecución de los objetivos del trabajo. Asume posiciones de liderazgo con confianza, y tiene inclinación a ofrecer consejo o guía a los demás de manera natural.",
+			"Bi_idSubCategoria": 21
+		},
+		{
+			"Bi_mbajo": "Muy poca inclinación a apegarse estrictamente  a las normas dentro y fuera de la organización. Puede estar en desacuerdo con la estructura o la autoridad formal e informal de la empresa y ser muy flexible en su interpretación de los reglamentos, procedimientos y normas de la organización. Si quisiera mejorar podría esforzarse en conocer y encontrar el valor y razón de ser de los protocolos, normas y procedimientos en la organización. Así podría adaptarse aún más a las instrucciones y órdenes superiores de la organización.",
+			"Bi_bajo": "Aunque entiende que hay protocolos a seguir dentro y fuera de la organización, usualmente realiza sus tareas con cierto grado de libertad frente a las normas establecidas y ser flexible en su interpretación de los reglamentos, procedimientos y normas de la organización. Si quisiera mejorar, debería esforzarse en conocer la razón de ser de los protocolos, normas y procedimientos en la organización. Así podría adaptarse aún más a las instrucciones y órdenes superiores y, a la vez, proponer ordenadamente algunos cambios al \"estatus quo\".",
+			"Bi_medio": "Suele ser sumamente correcto en su proceder, y es fiable en su aplicación de los reglamentos de la organización. Procura guiarse de acuerdo con los criterios de sus superiores,  y aunque respeta las jerarquías, puede ser flexible en su interacción con terceros, llegando en ocasiones a priorizar necesidades de colegas o subalternos a los requerimientos de sus superiores.",
+			"Bi_alto": "Se caracteriza por un manejo procedimental fluido, y un dominio cabal de las normas que rigen a la organización. Prioriza dentro de su trabajo todo aquello que haya sido requerido o que constituya un proceso laboral que responde a solicitudes de sus superiores. Posee un fuerte sentido de lo que es correcto e incorrecto, puede ayudar a la organización a que otros colegas cumplan con las normas.",
+			"Bi_malto": "Se caracteriza por un manejo altamente fluido y procedimental, y un excelente dominio de las normas que rigen a la organización y al equipo. Prioriza dentro de su trabajo todo aquello que haya sido requerido o que constituya un proceso laboral. Posee un fuerte sentido de lo que es correcto e incorrecto, y puede ayudar a la organización a que otros colegas cumplan con las normas.",
+			"Bi_idSubCategoria": 22
+		},
+		{
+			"Bi_mbajo": "Es una persona que no disfruta estar en posiciones de autoridad ni muestra interés por recibir reconocimiento. Probablemente evitará posiciones de responsabilidad, sobre todo aquellas que sean muy competitivas. Si quisiera mejorar, debería procurar ser más exigente consigo misma, buscar activamente hacerse cargo de proyectos y equipos, e imponerse estándares aún más altos de excelencia.",
+			"Bi_bajo": "Es una persona que no disfruta particularmente estar en posiciones de autoridad, ni muestra mucho interés  por recibir reconocimiento. Probablemente evitará posiciones de autoridad,  o ejercerá la autoridad de manera mesurada, evitando situaciones que sean muy competitivas. Si quisiera modificar esta característica, podría procurar entender las ventajas de ser más competitivo, buscar activamente posiciones de jerarquía o poder en las organizaciones y hacerse cargo de proyectos y equipos, además de imponerse estándares aún más altos de excelencia. ",
+			"Bi_medio": "Es una persona que en ocasiones disfruta estar en posiciones de autoridad y cargos de influencia. Es moderadamente competitiva y tiene mantiene estándares y compromiso con el éxito. Probablemente ejercerá posiciones formales o informales de liderazgo con relativa facilidad. Tiende a ser exigente consigo misma y disfruta estar en una posición donde sea reconocida.",
+			"Bi_alto": "Es una persona que busca y disfruta estar en posiciones de autoridad. Es competitiva y tiene elevados estándares y compromiso con el éxito. Probablemente ejercerá posiciones de liderazgo y dirección con facilidad, aunque no sea formalmente el responsable de los procesos en los que participa. Tiende a ser exigente consigo misma y disfruta estar en una posición donde sea reconocida por sus contribuciones.",
+			"Bi_malto": "Es una persona que busca y  disfruta estar en posiciones de autoridad y cargos de influencia. Es altamente competitiva y tiene elevados estándares y compromiso personal con el éxito. Probablemente ejercerá posiciones de liderazgo y dirección con facilidad, aunque no sea formalmente el responsable de los procesos en los que participa. Tiende a ser muy exigente consigo misma y disfruta estar en una posición donde sea reconocida por sus contribuciones.",
+			"Bi_idSubCategoria": 23
+		},
+		{
+			"Bi_mbajo": "Cree que las personas tienen una capacidad estable, que no mejora a lo largo de la vida. Considera que difícilmente las personas pueden superar grandes obstáculos, y cree que las personas tienen limitada capacidad para reinventarse. Si quisiera mejorar debería notar como esfuerzo personal y la plasticidad de la inteligencia como pilares del crecimiento personal y profesional, permite crecer a las personas.",
+			"Bi_bajo": "Si bien es capaz a veces de ver potencial en las personas, generalmente cree que las personas tienen una capacidad estable, inamovible y que no cambia con esfuerzo, o no mejora a lo largo de la vida. Si quisiera mejorar debería notar como el esfuerzo personal y la plasticidad de la inteligencia ayudan como pilares del crecimiento personal y profesional.",
+			"Bi_medio": "Cree en la capacidad de las personas de crecer y reinventarse a lo largo de la vida. Muestra una disposición positiva a asumir nuevos roles de trabajo y valora el esfuerzo y la inteligencia de los  compañeros y colaboradores como pilares del crecimiento. Apoya que la organización se actualice y gestione mejor sus capacidades, y en ocasiones es un modelo para el resto de sus colegas. ",
+			"Bi_alto": "Tiene una creencia profunda en la capacidad de las personas de superar obstáculos, crecer y reinventarse. Valora el esfuerzo y la plasticidad de la inteligencia y promueve que la organización y las personas se actualicen y gestionen mejor sus capacidades. Puede ser un modelo para el resto de sus compañeros. Usualmente es un pionero en aplicar nuevas herramientas.",
+			"Bi_malto": "Tiene una profunda creencia en la capacidad de las personas de superar obstáculos, crecer y reinventarse a lo largo de la vida. Muestra una disposición positiva a asumir nuevos roles de trabajo. Valora el \r esfuerzo y la plasticidad de la inteligencia y promueve que la organización y las personas se actualicen y gestionen mejor sus capacidades.",
+			"Bi_idSubCategoria": 24
+		}
+	],
+	[
+		{
+			"Tc_id": 1,
+			"Tc_desc": "De acuerdo con tus resultados, presentas un nivel bajo de ajuste al puesto. A continuación, te presentamos la posición de tus competencias con respecto a lo esperado en el puesto"
+		},
+		{
+			"Tc_id": 2,
+			"Tc_desc": "De acuerdo con tus resultados, presentas un nivel moderado de ajuste al puesto . A continuación, te presentamos la posición de tus competencias con respecto a lo esperado en el puesto"
+		},
+		{
+			"Tc_id": 3,
+			"Tc_desc": "De acuerdo con tus resultados, presentas un nivel alto de ajuste al puesto. A continuación, te presentamos la posición de tus competencias con respecto a lo esperado en el puesto"
+		}
+	],
+	[
+		{
+			"_idCandidato": 17330,
+			"_idPerfil": 621,
+			"_Prueba": 28089,
+			"_idRegla": 2,
+			"_idNorma": 6
+		}
+	],
+	[],
+	[
+		{
+			"sb_id": 23,
+			"sb_nombre": "Ambición",
+			"sb_resumen": "Ser competitivo. Alcanzar reconocimiento metas, jerarquía o liderazgo.",
+			"sb_idCategoria": 2,
+			"nr_decatipo2": 10,
+			"niveltexto": "Es una persona que busca y  disfruta estar en posiciones de autoridad y cargos de influencia. Es altamente competitiva y tiene elevados estándares y compromiso personal con el éxito. Probablemente ejercerá posiciones de liderazgo y dirección con facilidad, aunque no sea formalmente el responsable de los procesos en los que participa. Tiende a ser muy exigente consigo misma y disfruta estar en una posición donde sea reconocida por sus contribuciones.",
+			"nivelCritico": null
+		},
+		{
+			"sb_id": 13,
+			"sb_nombre": "Superación",
+			"sb_resumen": "Desarrollo del capital de carrera y mejoramiento profesional.",
+			"sb_idCategoria": 3,
+			"nr_decatipo2": 10,
+			"niveltexto": "Muestra un interés permanente en el mejoramiento de sus propias capacidades. Muy atento a la construcción de su capital de carrera. Lo motivan los temas que maneja y también las nuevas áreas de conocimiento. Dispuesto a capacitarse con recursos propios o incluso en su tiempo libre para beneficio propio y de la organización. Manifiesta disponibilidad y apertura de compartir o colaborar con colegas y terceros en la exploración intelectual y práctica.",
+			"nivelCritico": null
+		},
+		{
+			"sb_id": 17,
+			"sb_nombre": "Interés Interpersonal",
+			"sb_resumen": "Crear y cultivar relaciones. Disfrutar las interacciones sociales.",
+			"sb_idCategoria": 4,
+			"nr_decatipo2": 10,
+			"niveltexto": "Tiene un profundo y genuino interés por construir relaciones. Genera mayor valor para su entorno fortaleciendo y sosteniendo excelentes relaciones. Construye capital social en beneficio de la organización al disfrutar de hacer amigos en el trabajo, reunirse con personas, y pasar tiempo con ellos. Establece contactos y desarrolla relaciones y disfruta de conversar con los demás.",
+			"nivelCritico": null
+		},
+		{
+			"sb_id": 12,
+			"sb_nombre": "Confianza y Seguridad",
+			"sb_resumen": "Proyectar confianza. Sentir y demostrar seguridad personal.",
+			"sb_idCategoria": 3,
+			"nr_decatipo2": 9,
+			"niveltexto": "Proyecta un alto nivel de confianza en su propio valor como persona y en sus propias capacidades. Muestra gran capacidad para enfrentar situaciones y dificultades en el trabajo con tranquilidad e introspección para reconocer sus propios errores. En situaciones de discusión es capaz de tomar su propia posición frente a la oposición.",
+			"nivelCritico": 2
+		},
+		{
+			"sb_id": 8,
+			"sb_nombre": "Planificación y Organización",
+			"sb_resumen": "Planear el trabajo. Mantenerse organizado.",
+			"sb_idCategoria": 2,
+			"nr_decatipo2": 8,
+			"niveltexto": "Efectivo al ordenar las acciones, manejar el tiempo y recursos para alcanzar con mucha frecuencia los objetivos\r  claves de la organización. Cuenta con buenas capacidades y habilidades de organización y planificación para su uso en el trabajo diario.",
+			"nivelCritico": 2
+		},
+		{
+			"sb_id": 11,
+			"sb_nombre": "Orientación hacia el Cliente",
+			"sb_resumen": "Propensión y compromiso hacia la atención y el servicio al cliente.",
+			"sb_idCategoria": 2,
+			"nr_decatipo2": 8,
+			"niveltexto": "Presta atención a las necesidades de los clientes, es un efectivo navegador de la organización interna e incluso es capaz de proponer\r  mejoras para satisfacer los requerimientos de los clientes. Demuestra entusiasmo ante el contacto con los clientes y transmite una actitud servicial.",
+			"nivelCritico": null
+		},
+		{
+			"sb_id": 19,
+			"sb_nombre": "Comunicación y Persuasión",
+			"sb_resumen": "Habilidad para la expresión verbal. Capacidad de convencimiento.",
+			"sb_idCategoria": 4,
+			"nr_decatipo2": 8,
+			"niveltexto": "Tiene una fuerte disposición a utilizar su habilidad verbal para influir sobre los demás. Es diestro en el uso de las habilidades de  persuasión. Domina con pericia el lenguaje y logra interesar a sus oyentes en su mensaje. Posee un vasto vocabulario y lo usa de manera fluida.",
+			"nivelCritico": 2
+		},
+		{
+			"sb_id": 3,
+			"sb_nombre": "Foco en el resultado",
+			"sb_resumen": "Enfoque, claridad y seguimiento a las tareas del trabajo.",
+			"sb_idCategoria": 1,
+			"nr_decatipo2": 7,
+			"niveltexto": "Sabe mantener el foco en la meta de trabajo y cumple con holgura las metas y objetivos que se le asignan. Con frecuencia, manifiesta una disposición a culminar los trabajos y obtener resultados concretos.",
+			"nivelCritico": 1
+		},
+		{
+			"sb_id": 22,
+			"sb_nombre": "Conformidad",
+			"sb_resumen": "Preferencia por las reglas y los procedimientos establecidos.",
+			"sb_idCategoria": 1,
+			"nr_decatipo2": 7,
+			"niveltexto": "Se caracteriza por un manejo procedimental fluido, y un dominio cabal de las normas que rigen a la organización. Prioriza dentro de su trabajo todo aquello que haya sido requerido o que constituya un proceso laboral que responde a solicitudes de sus superiores. Posee un fuerte sentido de lo que es correcto e incorrecto, puede ayudar a la organización a que otros colegas cumplan con las normas.",
+			"nivelCritico": 3
+		},
+		{
+			"sb_id": 15,
+			"sb_nombre": "Energía",
+			"sb_resumen": "Efectividad extendida. Persistencia y concentración ante la fatiga.",
+			"sb_idCategoria": 3,
+			"nr_decatipo2": 7,
+			"niveltexto": "Tiene un alto nivel de energía para la realización de las tareas de la organización, sin perder concentración. Mantiene un dinamismo en el desempeño de\r  sus tareas y actuaciones laborales sin manifestar mucho cansancio ni decaimiento, incluso cuando la jornada tiene un requerimiento intelectual alto. Suele ser una persona que dinámica que cataliza la energía positiva del resto de los miembros en su entorno laboral.",
+			"nivelCritico": 3
+		},
+		{
+			"sb_id": 16,
+			"sb_nombre": "Resiliencia",
+			"sb_resumen": "Actitud positiva. Recuperación rápida frente a la adversidad.",
+			"sb_idCategoria": 3,
+			"nr_decatipo2": 7,
+			"niveltexto": "Se recupera con relativa rapidez de las situaciones adversas que se le presentan en su ámbito profesional. Generalmente logra aprovechar las experiencias\r  y eventos negativos para convertirlos en oportunidades de crecimiento personal. Con cierta frecuencia persiste ante los obstáculos o las dificultades en el trabajo.",
+			"nivelCritico": 3
+		},
+		{
+			"sb_id": 14,
+			"sb_nombre": "Autocontrol",
+			"sb_resumen": "Capacidad para mantener la calma y el dominio emocional.",
+			"sb_idCategoria": 3,
+			"nr_decatipo2": 6,
+			"niveltexto": "Generalmente se mantiene tranquilo frente a obstáculos en el trabajo o ante situaciones de alto nivel de estrés. Maneja con efectividad su propia conducta. Evita las expresiones emocionales intensas e intenta distanciarse de conflictos y hostilidades en el entorno.  Aunque puede sentirse agobiado en circunstancias muy particulares,  generalmente recupera la compostura. ",
+			"nivelCritico": 2
+		},
+		{
+			"sb_id": 18,
+			"sb_nombre": "Empatía ",
+			"sb_resumen": "Reconocer y conectar con las emociones de los demás.",
+			"sb_idCategoria": 4,
+			"nr_decatipo2": 6,
+			"niveltexto": "Puede interpretar con relativa propiedad las emociones de los compañeros y clientes. Es competente para encontrar formas de acercarse a \r otros para apoyarlos. Comprende las emociones de otras personas y sabe producir un dialogo o encuentro emocional satisfactorio. Es capaz de expresar solidaridad y apoyo emocional.",
+			"nivelCritico": null
+		},
+		{
+			"sb_id": 21,
+			"sb_nombre": "Potencial para el Liderazgo ",
+			"sb_resumen": "Interés o facilidad para influir en los demás y ejercer el rol de líder.",
+			"sb_idCategoria": 4,
+			"nr_decatipo2": 6,
+			"niveltexto": "Asume de buen agrado posiciones de dirección o liderazgo, aunque en ocasiones también puede preferir trabajar en un segundo plano. Tiene inclinación a generar entusiasmo y en ocasiones anima la mejora en los objetivos del trabajo. A pesar que no tiene una fuerte inclinación a estar a cargo en posiciones de dirección, lo puede hacer cuando se requiere. Puede impartir orientaciones o dar direcciones cuando es necesario.",
+			"nivelCritico": 1
+		},
+		{
+			"sb_id": 1,
+			"sb_nombre": "Capacidad de Análisis",
+			"sb_resumen": "Inclinación hacia el análisis de datos y la comprensión de hechos.",
+			"sb_idCategoria": 1,
+			"nr_decatipo2": 5,
+			"niveltexto": "Presenta una disposición positiva y habilidad moderada para el examen detallado de las cosas (datos, hechos e información).\r Encuentra los puntos principales de un problema y es hábil para extraer conclusiones separando o considerando por separado las partes que constituyen los problemas que se presentan en el trabajo.",
+			"nivelCritico": 1
+		},
+		{
+			"sb_id": 2,
+			"sb_nombre": "Proactividad",
+			"sb_resumen": "Acción rápida. Mejorar el trabajo. Solucionar problemas",
+			"sb_idCategoria": 1,
+			"nr_decatipo2": 5,
+			"niveltexto": "Es capaz de mostrar proactividad e iniciativa. En ocasiones puede implicarse y reaccionar frente a las necesidades repentinas en el entorno de trabajo. Se involucra en las tareas de mejora y aporta sugerencias cuando el entorno así lo evidencia. En ocasiones busca soluciones a los problemas del entorno laboral por su propia cuenta.",
+			"nivelCritico": 2
+		},
+		{
+			"sb_id": 5,
+			"sb_nombre": "Administrando el propio Desempeño",
+			"sb_resumen": "Propensión y dedicación a actividades laborales por encima de otras.",
+			"sb_idCategoria": 1,
+			"nr_decatipo2": 5,
+			"niveltexto": "Mantiene un balance entre vida y trabajo, pero es evidencia serio y efectivo compromiso con su tiempo laboral y los recursos de la organización, disponiendo de alta dedicación cuando esta sea necesario. Es capaz de tomar responsabilidades adicionales y sacrificar momentáneamente otros aspectos de su vida, por cumplir con responsabilidades laborales extraordinarias.",
+			"nivelCritico": null
+		},
+		{
+			"sb_id": 6,
+			"sb_nombre": "Razonamiento Matemático",
+			"sb_resumen": "Interés o habilidad hacia el trabajo con información cuantitativa.",
+			"sb_idCategoria": 1,
+			"nr_decatipo2": 5,
+			"niveltexto": "Entiende los datos y las relaciones numéricas. Le atrae la información numérica, y usa conceptos numéricos para completar las tareas y agregar valor. \r Es capaz de sintetizar algunas tendencias inferidas por información numérica y categorizar lo prioritario.",
+			"nivelCritico": null
+		},
+		{
+			"sb_id": 7,
+			"sb_nombre": "Toma de Decisiones ",
+			"sb_resumen": "Facilidad y confianza para tomar decisiones.",
+			"sb_idCategoria": 2,
+			"nr_decatipo2": 5,
+			"niveltexto": "En ocasiones disfruta de hacerse cargo de tomar decisiones. Es capaz de valorar varias opciones y seguir un rumbo una vez hecha la elección. \r Demuestra niveles moderados de capacidad de toma de decisión. En ocasiones puede necesitar más tiempo para concluir el proceso de reflexión previo al momento de la decisión.",
+			"nivelCritico": 1
+		},
+		{
+			"sb_id": 24,
+			"sb_nombre": "Mentalidad",
+			"sb_resumen": "Creencia en el potencial de transformación y mejora de las personas.",
+			"sb_idCategoria": 3,
+			"nr_decatipo2": 5,
+			"niveltexto": "Cree en la capacidad de las personas de crecer y reinventarse a lo largo de la vida. Muestra una disposición positiva a asumir nuevos roles de trabajo y valora el esfuerzo y la inteligencia de los  compañeros y colaboradores como pilares del crecimiento. Apoya que la organización se actualice y gestione mejor sus capacidades, y en ocasiones es un modelo para el resto de sus colegas. ",
+			"nivelCritico": null
+		},
+		{
+			"sb_id": 9,
+			"sb_nombre": "Visión Estratégica",
+			"sb_resumen": "Comprender el entorno. Anticipar escenarios y posibilidades.",
+			"sb_idCategoria": 2,
+			"nr_decatipo2": 4,
+			"niveltexto": "Se enfoca más en el día a día y tiene muy poco interés en el futuro. Puede identificar algunos retos u oportunidades del entorno, pero puede que \r le resulte difícil entender otros factores del entorno de los negocios y hacer acciones, planes y propuestas que mitiguen posibles impactos negativos.",
+			"nivelCritico": 1
+		},
+		{
+			"sb_id": 4,
+			"sb_nombre": "Atención a los detalles",
+			"sb_resumen": "Disfrute, interés y habilidad para verificar y revisar.",
+			"sb_idCategoria": 1,
+			"nr_decatipo2": 3,
+			"niveltexto": "En ocasiones pone atención al detalle y produce trabajos de calidad. Tiene cierto interés en que las cosas queden bien terminadas y conoce qué tareas necesita realizar para el cumplimiento de sus asignaciones. Sin embargo, si quisiera mejorar, pudiera empeñarse dedicando más esfuerzo a enfocarse en los detalles, y aportar aún más precisión en el trabajo.",
+			"nivelCritico": null
+		},
+		{
+			"sb_id": 20,
+			"sb_nombre": "Trabajo en Equipo  ",
+			"sb_resumen": "Habilidad y motivación para fortalecer o formar parte del equipo.",
+			"sb_idCategoria": 4,
+			"nr_decatipo2": 3,
+			"niveltexto": "Sabe trabajar en equipo, pero usualmente prefiere trabajar por sí mismo. Disfruta el trabajo intelectual u operativo trabajando sólo. No es muy hábil a la hora de \r facilitar la cohesión del equipo, pues probablemente piensa que cada quien debe saber qué hacer. Puede llegar a buscar activamente disminuir su participación en equipos de trabajo. Se recomienda hacer un esfuerzo por participar más activamente, contribuir con el trabajo de los demás, escuchar más y expresar más sus opiniones en el equipo de trabajo, además de intentar disfrutar los logros que se consiguen con el trabajo en equipo.",
+			"nivelCritico": 3
+		},
+		{
+			"sb_id": 10,
+			"sb_nombre": "Innovación",
+			"sb_resumen": "Generar ideas y soluciones creativas.",
+			"sb_idCategoria": 2,
+			"nr_decatipo2": 2,
+			"niveltexto": "Tiene muy poco interés por generar ideas o soluciones originales. Más bien disfruta de la estabilidad en la forma de hacer las cosas en el trabajo y puede ser muy eficiente dentro de parámetros y procedimientos estables y de \"estatus quo\". No tiene disposición interna hacia la innovación y cuando enfrenta nuevos problemas necesita apoyo para solucionarlos.",
+			"nivelCritico": 3
+		}
+	],
+	[
+		{
+			"validDecah": null,
+			"validDecal": null,
+			"validGeneral": 0
+		}
+	],
+	[
+		{
+			"nr_idSubcategoria": 1,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 0,
+			"validBajo": 0
+		},
+		{
+			"nr_idSubcategoria": 2,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 0,
+			"validBajo": 0
+		},
+		{
+			"nr_idSubcategoria": 3,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 0,
+			"validBajo": 0
+		},
+		{
+			"nr_idSubcategoria": 4,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 0,
+			"validBajo": 0
+		},
+		{
+			"nr_idSubcategoria": 5,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 0,
+			"validBajo": 0
+		},
+		{
+			"nr_idSubcategoria": 6,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 0,
+			"validBajo": 0
+		},
+		{
+			"nr_idSubcategoria": 7,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 0,
+			"validBajo": 0
+		},
+		{
+			"nr_idSubcategoria": 8,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 0,
+			"validBajo": 0
+		},
+		{
+			"nr_idSubcategoria": 9,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 0,
+			"validBajo": 0
+		},
+		{
+			"nr_idSubcategoria": 10,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 0,
+			"validBajo": 0
+		},
+		{
+			"nr_idSubcategoria": 11,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 0,
+			"validBajo": 0
+		},
+		{
+			"nr_idSubcategoria": 12,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 0,
+			"validBajo": 0
+		},
+		{
+			"nr_idSubcategoria": 13,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 0,
+			"validBajo": 0
+		},
+		{
+			"nr_idSubcategoria": 14,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 0,
+			"validBajo": 0
+		},
+		{
+			"nr_idSubcategoria": 15,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 0,
+			"validBajo": 0
+		},
+		{
+			"nr_idSubcategoria": 16,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 0,
+			"validBajo": 0
+		},
+		{
+			"nr_idSubcategoria": 17,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 0,
+			"validBajo": 0
+		},
+		{
+			"nr_idSubcategoria": 18,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 0,
+			"validBajo": 0
+		},
+		{
+			"nr_idSubcategoria": 19,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 0,
+			"validBajo": 0
+		},
+		{
+			"nr_idSubcategoria": 20,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 0,
+			"validBajo": 0
+		},
+		{
+			"nr_idSubcategoria": 21,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 0,
+			"validBajo": 0
+		},
+		{
+			"nr_idSubcategoria": 22,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 0,
+			"validBajo": 0
+		},
+		{
+			"nr_idSubcategoria": 23,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 0,
+			"validBajo": 0
+		},
+		{
+			"nr_idSubcategoria": 24,
+			"nr_countUnoDos": null,
+			"nr_countCincoSeis": null,
+			"validAlto": 0,
+			"validBajo": 0
+		}
+	],
+	[
+		{
+			"ContadorImportante": 5,
+			"sb_id": 1,
+			"sb_nombre": "Capacidad de Análisis",
+			"sb_resumen": "Inclinación hacia el análisis de datos y la comprensión de hechos.",
+			"cp_NivelCritico": 1,
+			"sb_idCategoria": 1,
+			"nr_decatipo2": 5,
+			"ranking": 6.67
+		},
+		{
+			"ContadorImportante": 5,
+			"sb_id": 22,
+			"sb_nombre": "Conformidad",
+			"sb_resumen": "Preferencia por las reglas y los procedimientos establecidos.",
+			"cp_NivelCritico": 3,
+			"sb_idCategoria": 1,
+			"nr_decatipo2": 7,
+			"ranking": 2.33
+		},
+		{
+			"ContadorImportante": 5,
+			"sb_id": 3,
+			"sb_nombre": "Foco en el resultado",
+			"sb_resumen": "Enfoque, claridad y seguimiento a las tareas del trabajo.",
+			"cp_NivelCritico": 1,
+			"sb_idCategoria": 1,
+			"nr_decatipo2": 7,
+			"ranking": 9.33
+		},
+		{
+			"ContadorImportante": 5,
+			"sb_id": 2,
+			"sb_nombre": "Proactividad",
+			"sb_resumen": "Acción rápida. Mejorar el trabajo. Solucionar problemas",
+			"cp_NivelCritico": 2,
+			"sb_idCategoria": 1,
+			"nr_decatipo2": 5,
+			"ranking": 2.78
+		},
+		{
+			"ContadorImportante": 5,
+			"sb_id": 10,
+			"sb_nombre": "Innovación",
+			"sb_resumen": "Generar ideas y soluciones creativas.",
+			"cp_NivelCritico": 3,
+			"sb_idCategoria": 2,
+			"nr_decatipo2": 2,
+			"ranking": 0.67
+		},
+		{
+			"ContadorImportante": 5,
+			"sb_id": 8,
+			"sb_nombre": "Planificación y Organización",
+			"sb_resumen": "Planear el trabajo. Mantenerse organizado.",
+			"cp_NivelCritico": 2,
+			"sb_idCategoria": 2,
+			"nr_decatipo2": 8,
+			"ranking": 4.44
+		},
+		{
+			"ContadorImportante": 5,
+			"sb_id": 7,
+			"sb_nombre": "Toma de Decisiones ",
+			"sb_resumen": "Facilidad y confianza para tomar decisiones.",
+			"cp_NivelCritico": 1,
+			"sb_idCategoria": 2,
+			"nr_decatipo2": 5,
+			"ranking": 6.67
+		},
+		{
+			"ContadorImportante": 5,
+			"sb_id": 9,
+			"sb_nombre": "Visión Estratégica",
+			"sb_resumen": "Comprender el entorno. Anticipar escenarios y posibilidades.",
+			"cp_NivelCritico": 1,
+			"sb_idCategoria": 2,
+			"nr_decatipo2": 4,
+			"ranking": 5.33
+		},
+		{
+			"ContadorImportante": 5,
+			"sb_id": 14,
+			"sb_nombre": "Autocontrol",
+			"sb_resumen": "Capacidad para mantener la calma y el dominio emocional.",
+			"cp_NivelCritico": 2,
+			"sb_idCategoria": 3,
+			"nr_decatipo2": 6,
+			"ranking": 3.33
+		},
+		{
+			"ContadorImportante": 5,
+			"sb_id": 12,
+			"sb_nombre": "Confianza y Seguridad",
+			"sb_resumen": "Proyectar confianza. Sentir y demostrar seguridad personal.",
+			"cp_NivelCritico": 2,
+			"sb_idCategoria": 3,
+			"nr_decatipo2": 9,
+			"ranking": 5.00
+		},
+		{
+			"ContadorImportante": 5,
+			"sb_id": 15,
+			"sb_nombre": "Energía",
+			"sb_resumen": "Efectividad extendida. Persistencia y concentración ante la fatiga.",
+			"cp_NivelCritico": 3,
+			"sb_idCategoria": 3,
+			"nr_decatipo2": 7,
+			"ranking": 2.33
+		},
+		{
+			"ContadorImportante": 5,
+			"sb_id": 16,
+			"sb_nombre": "Resiliencia",
+			"sb_resumen": "Actitud positiva. Recuperación rápida frente a la adversidad.",
+			"cp_NivelCritico": 3,
+			"sb_idCategoria": 3,
+			"nr_decatipo2": 7,
+			"ranking": 2.33
+		},
+		{
+			"ContadorImportante": 5,
+			"sb_id": 19,
+			"sb_nombre": "Comunicación y Persuasión",
+			"sb_resumen": "Habilidad para la expresión verbal. Capacidad de convencimiento.",
+			"cp_NivelCritico": 2,
+			"sb_idCategoria": 4,
+			"nr_decatipo2": 8,
+			"ranking": 4.44
+		},
+		{
+			"ContadorImportante": 5,
+			"sb_id": 21,
+			"sb_nombre": "Potencial para el Liderazgo ",
+			"sb_resumen": "Interés o facilidad para influir en los demás y ejercer el rol de líder.",
+			"cp_NivelCritico": 1,
+			"sb_idCategoria": 4,
+			"nr_decatipo2": 6,
+			"ranking": 8.00
+		},
+		{
+			"ContadorImportante": 5,
+			"sb_id": 20,
+			"sb_nombre": "Trabajo en Equipo  ",
+			"sb_resumen": "Habilidad y motivación para fortalecer o formar parte del equipo.",
+			"cp_NivelCritico": 3,
+			"sb_idCategoria": 4,
+			"nr_decatipo2": 3,
+			"ranking": 1.00
+		}
+	],
+	[
+		{
+			"ContadorCritico": 5,
+			"ContadorMuyImportante": 5,
+			"ContadorImportante": 5,
+			"round(60/ ContadorCritico)": 12,
+			"round(25/ContadorMuyImportante)": 5,
+			"round(15/ ContadorImportante)": 3,
+			"calceranking": 45
+		}
+	],
+	[
+		{
+			"rc_id": 2,
+			"rc_NombreRegla": "Regla Proporcional"
+		}
+	]
+]

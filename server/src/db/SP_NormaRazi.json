@@ -1,0 +1,20 @@
+[
+	{
+		"response": [
+			
+			[
+				{
+					"na_id": 1,
+					"na_nombre": "Norma Estandar",
+					"nombreNorma": "Norma Estandar"
+				},
+				{
+					"na_id": 4,
+					"na_nombre": "Norma Profesional 2022",
+					"nombreNorma": "Norma Profesional 2022"
+				}
+			]
+			
+		]
+	}
+]

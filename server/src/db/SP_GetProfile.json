@@ -1,0 +1,26 @@
+[
+	{
+		"response": [
+			{
+				"pl_id": 621,
+				"pl_nombre": "Director general regional / corporativo",
+				"ar_id": 1,
+				"ar_nombre": "Administración",
+				"idPuesto": 1,
+				"nombrePuesto": "Director general regional / corporativo",
+				"idNivelOrg": 3,
+				"nombreNivelOrg": "Estratégico"
+			},
+			{
+				"pl_id": 622,
+				"pl_nombre": "Asistente de gerencia general",
+				"ar_id": 1,
+				"ar_nombre": "Administración",
+				"idPuesto": 6,
+				"nombrePuesto": "Asistente de gerencia general",
+				"idNivelOrg": 1,
+				"nombreNivelOrg": "Operativo"
+			}
+		]
+	}
+]

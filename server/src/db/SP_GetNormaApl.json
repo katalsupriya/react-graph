@@ -1,0 +1,24 @@
+[
+    {
+        "response": [
+            [
+                {
+                    "na_id": 5,
+                    "na_nombre": "PROFESIONAL 2020 N",
+                    "na_idTipo": 1
+                },
+                {
+                    "na_id": 6,
+                    "na_nombre": "PROFESIONAL 2020 NI",
+                    "na_idTipo": 2
+                }
+            ],
+            [
+                {
+                    "nt_id": 2,
+                    "nt_Nombre": "APL Normativo/Ipsativo"
+                }
+            ]
+        ]
+    }
+]
